@@ -1,0 +1,2552 @@
+[33mcommit c94031d735f0d036a5eea6cfaab068a04e87512f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ArteomChebotarev <ponchikbom@gmail.com>
+Date:   Thu Mar 21 21:02:11 2024 +0300
+
+    First commit beanch1
+
+[33mcommit 51a37d0fa5f334fdfae9fea39711402fb6eb3b34[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mbranch2[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Jan 27 21:02:05 2024 -0800
+
+    [eslint config] [*] [robustness] cache static builtins
+
+[33mcommit 0681a43e0a0181e8cafd0d3004f967a238411ba2[m
+Author: 43081j <43081j@users.noreply.github.com>
+Date:   Thu Jan 4 19:14:38 2024 +0000
+
+    [eslint config] [*] [refactor] remove `object.entries` dependency
+    
+    This removes the `object.entries` package and uses the widely available built-in native `Object.entries`.
+
+[33mcommit 55899b57a6de826d8d762693d6d4f999d652ae2d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Jan 27 21:08:54 2024 -0800
+
+    [eslint config] [*] [deps] update deps
+
+[33mcommit e95b1f2754258cf219ecfdfdf712b6de5657dd8a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Jan 27 21:07:02 2024 -0800
+
+    [eslint config] [base] add new disabled rules
+
+[33mcommit 11ab37144b7f846f04f64a29b5beb6e00d74e84b[m
+Author: Vahid Mohammadi <vahidm1467@gmail.com>
+Date:   Mon Aug 21 15:43:54 2023 +0100
+
+    [eslint config] [base] [patch] Add a message for `confusing-browser-globals`
+
+[33mcommit 46ae3e225673b6bbd52a49f78b9474cd282b8e4f[m
+Author: savalaram-redkar <rredkar1996@gmail.com>
+Date:   Tue Aug 15 20:24:16 2023 +0530
+
+    [readme] Add `Object.hasOwn` to section 3.7
+
+[33mcommit cb191776dbdd2c8674fc81a6850c4c1377af46e6[m
+Author: hamzahuda <116317495+hamzahuda@users.noreply.github.com>
+Date:   Sat Aug 12 12:19:30 2023 +0100
+
+    [readme] correct no-use-before-define justification
+    
+    The recommendation is to declare the variables, classes and functions before. So the contrasting negative example should say after.
+
+[33mcommit cda44dad403979d313a4b02ce55f0bb6cc3a24b2[m
+Author: Joe Mornin <119512+morninj@users.noreply.github.com>
+Date:   Tue Aug 1 09:25:54 2023 -0700
+
+    [guide] Add commas to Truth, Equality, and JavaScript
+    
+    Co-authored-by: Jordan Harband <ljharb@gmail.com>
+
+[33mcommit 2fc5e2d52c48c1dfc76f52f704c41dcfd28a0de7[m
+Author: Joe Mornin <119512+morninj@users.noreply.github.com>
+Date:   Wed Aug 2 13:16:48 2023 -0700
+
+    [guide] fix grammar
+
+[33mcommit 749f4c2bd0e2e890fed7f421ac39b8689fe00d99[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Aug 5 12:06:55 2023 +1200
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit 4aee38f1e794ec846aa2d1120b80a1ac7ad4db12[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Aug 5 12:05:40 2023 +1200
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `@babel/runtime`, `tape`
+
+[33mcommit 18a08b862b14ec8d8fd8bd70bcba2d8e9714c93b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Aug 5 11:55:23 2023 +1200
+
+    [Dev Deps] update `markdownlint`, `markdownlint-cli`
+
+[33mcommit fd77bbebb77362ddecfef7aba3bf6abf7bdd81f2[m
+Author: Khadija-Batool <khadijagardezi10@gmail.com>
+Date:   Sun Jul 2 23:51:01 2023 +0500
+
+    [guide] add nullish-coalescing-operator definition
+
+[33mcommit 7916d6f538028e91129e65fd5633b7d6fa85d000[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon May 15 10:21:09 2023 -0700
+
+    [guide] Add documentation for `no-use-before-define` rule under hoisting section
+
+[33mcommit 01f046dc0567e4495762e8e4fc4dde7b87dd5eb8[m
+Author: zhesha <savzhe@gmail.com>
+Date:   Tue May 23 15:10:23 2023 +0300
+
+    [guide] added second link to eslint rule for item 7.1
+
+[33mcommit 0f3ca32323b8d5770de3301036e65511c6d18e00[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon May 15 10:21:09 2023 -0700
+
+    [eslint config] [*] [deps] update `object.entries`
+
+[33mcommit 95b6b43d634814c3ea81a350a9ab9c0b7d12457e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon May 15 10:20:15 2023 -0700
+
+    [eslint-config] [*] [dev deps] update `@babel/runtime`
+
+[33mcommit 240a3789db57dd285545e51d7484fcbc3cc2a3e1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon May 15 10:19:05 2023 -0700
+
+    [Dev Deps] update `markdownlint`, `markdownlint-cli`
+
+[33mcommit 0e627e2fa32e16296e309af314eb3cdaae00de66[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon May 15 10:15:59 2023 -0700
+
+    [readme] update eslint plugin repo URLs
+
+[33mcommit 7982931ba745c0f57ba6934fc7e6cc43901dac76[m
+Author: Christian Koop <contact@sprax2013.de>
+Date:   Tue May 2 19:45:36 2023 +0200
+
+    [readme] Updates ESLint rule in section 12.3 (exponentiation-operator)
+    
+    The change itself has already been made in f3d3a075cda2acc02011e71991c10bb5b4a15278
+    (tracked in/acording to https://github.com/airbnb/javascript/issues/2421#issuecomment-1371305010).
+    
+    
+    #2421
+    Remove Math.pow from `no-restricted-properties` and use `prefer-exponentiation-operator` instead.
+
+[33mcommit 69fc1bf1953a9113f30f07ef93b69caaf498c689[m
+Author: Felipe Garcia Diaz <41710468+felipeGarciaDiaz@users.noreply.github.com>
+Date:   Fri Apr 28 03:33:28 2023 -0400
+
+    spell checking, fixed grammar error.
+
+[33mcommit 5c01a1094986c4dd50a6ee4d9f7617abdfabb58a[m
+Author: syedmouaazfarrukh <97732099+syedmouaazfarrukh@users.noreply.github.com>
+Date:   Tue Feb 7 11:17:51 2023 -0800
+
+    [readme] added JavaScript Roadmap link
+
+[33mcommit bf536566cee0b7f239e00f105ca422bb95be2d62[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Feb 8 22:59:18 2023 -0800
+
+    [eslint config] [deps] update `eslint-plugin-react`, `eslint-plugin-jsx-a11y`
+
+[33mcommit 917c8d92a30db5bc35ddef85ec417f1aad0dc2c1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Feb 8 22:19:53 2023 -0800
+
+    [*] [deps] update `eslint-plugin-import`
+
+[33mcommit 8091e39343b86ccc8524ed068cd218a3fd928105[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Feb 8 22:11:42 2023 -0800
+
+    [*] [dev deps] update `@babel/runtime`, `tape`
+
+[33mcommit fd96a4fd57be26d4d9d2f2d24b373a2df7c23548[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Dec 30 14:48:36 2022 -0800
+
+    [eslint config] [*] [refactor] use object spread instead of `Object.assign`
+
+[33mcommit 81157eec2309449b31f36bf8940493623f2530c6[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Thu Nov 17 20:15:09 2022 +0300
+
+    [guide] add `Object.hasOwn`
+
+[33mcommit 4ef69edc633972a559cb7418e8aee8172cc9fbad[m
+Author: Mert Can Altın <mertgold60@gmail.com>
+Date:   Sun Dec 4 00:32:01 2022 +0300
+
+    [Tests] refactor test paths
+
+[33mcommit d60170173096486bde4eff320a22148e79acff48[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Sun Oct 30 02:00:29 2022 +0300
+
+    [readme] wayback machine, or remove, broken links
+
+[33mcommit 49d08a2f134f4d6524e99aacce57914b8957994e[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Sat Oct 29 23:49:43 2022 +0300
+
+    [readme] prefer `const`/`let` over `var` in examples
+    
+    2.1 Use const for all of your references; avoid using var. eslint: prefer-const, no-const-assign
+
+[33mcommit 0d747c6d96f94e54d24d8c005da0c87105bf0fd5[m
+Author: Pushpendra Pal <94526347+Pushpendra100@users.noreply.github.com>
+Date:   Mon Nov 14 04:54:20 2022 +0530
+
+    [readme] add space before code blocks
+
+[33mcommit 1fb7d76adde6f0822471c924bfda4ccd49879bc0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Nov 17 13:56:33 2022 -0800
+
+    [eslint config] [patch] add new disabled core rules
+
+[33mcommit 38f1488918ef19f56191e855f624fa5da988d547[m
+Author: Maksim Ploski <50287455+plplmax@users.noreply.github.com>
+Date:   Mon Oct 31 21:57:59 2022 +0300
+
+    [guide] fix typo in `space-before-blocks`
+
+[33mcommit c6b1a43c489d2c242f9c6c6d12966c95d27d9dfa[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Wed Oct 26 13:44:17 2022 +0300
+
+    [guide] rename `qux` to `quux`
+    
+    Fixes #2661
+
+[33mcommit 6947138ee34319133da0e28a0e59abad987f1586[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Wed Oct 26 16:17:38 2022 +0300
+
+    [guide] add comma to the end of the property
+
+[33mcommit 6fb4f8e878264f7b913dc29bc6919520eb6be6c8[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Wed Oct 26 00:06:26 2022 +0300
+
+    [guide] add Optional Chaining
+
+[33mcommit ca0ff97f17f355d10afc7ccd4f5ae11815d62637[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Tue Oct 25 23:26:56 2022 +0300
+
+    [guide] add Nullish Coalescing operator
+
+[33mcommit 0b1f62372ee0ce9e228a1a9a98d948d323d1737f[m
+Author: Mustafa UZUN <mustafa.uzun@std.izmirekonomi.edu.tr>
+Date:   Tue Oct 25 16:03:37 2022 +0300
+
+    [editorial] convert example to use single instead of double quotes
+
+[33mcommit 7dbb7b154ffe38297f451440e7f59e3876a18ef7[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Oct 25 09:42:25 2022 -0700
+
+    [eslint config] [base] add disabled `logical-assignment-operators` rule
+
+[33mcommit 75a908aacfe9ad86a18f3930cfff9c4636ffd644[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Sep 18 22:21:48 2022 -0700
+
+    [eslint config] [deps] update `eslint-plugin-jsx-a11y`, `eslint-plugin-react`, `eslint-plugin-react-hooks`
+
+[33mcommit f6f63b89f602006278eff0ba4ad3cae617705cc3[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Sep 18 22:18:57 2022 -0700
+
+    [eslint config] [*] [deps] update `object.assign`
+
+[33mcommit 866f441d05ae07fccdd7e6c3946125875594d6f3[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Sep 18 22:18:17 2022 -0700
+
+    [eslint config] [*] update `@babel/runtime`, `tape`
+
+[33mcommit 5143a7a97a6969dd690fb905acee54d9f753667c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Sep 18 22:16:08 2022 -0700
+
+    [Dev Deps] update `markdownlint`, `markdownlint-cli`
+
+[33mcommit 3cbf96de7cde974aab99f4ca85bd23ea0556c34a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Sep 18 22:08:04 2022 -0700
+
+    [eslint config] [base] `no-alert`: add TODO comment
+
+[33mcommit 5155aa5fc1ea9bb2c6493a06ddbd5c7a05414c86[m
+Author: Haoqun Jiang <haoqunjiang@gmail.com>
+Date:   Mon Aug 8 21:56:10 2022 +0800
+
+    [eslint config] [base] disable the deprecated `no-spaced-func` rule
+    
+    This rule was deprecated since ESLint v3.3.0 and replaced by the
+    `func-call-spacing` rule.
+    https://eslint.org/docs/latest/rules/no-spaced-func
+    
+    `func-call-spacing` was enabled in this package long ago:
+    https://github.com/airbnb/javascript/commit/27dcb99c6d80718946d10017144b2aa68bed8b9e
+    
+    So there's no need for it to stay in the ruleset.
+    
+    Besides, it is causing some tricky issues when overriding the rules for
+    TypeScript support (https://github.com/iamturns/eslint-config-airbnb-typescript/issues/246)
+
+[33mcommit cbf9ade10a2f6f06c9da6dbfa25b344bee4bbef6[m
+Author: Michael Orzel <56739010+michael-orzel@users.noreply.github.com>
+Date:   Fri Jul 2 09:40:46 2021 -0400
+
+    [guide] Added period to 4.4 for formatting consistency.
+
+[33mcommit 206d25b55a9c6171499465cb38c8f09ea737d31f[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue May 24 08:52:07 2022 -0700
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit a0e94052d542796bd756d3e2e0d563e5b392b804[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue May 24 08:49:47 2022 -0700
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`
+
+[33mcommit 42c0e2ea13e30ae47a6ebad1e1b5d95a44ac7665[m
+Author: Joe Lencioni <joe.lencioni@airbnb.com>
+Date:   Tue May 24 09:52:05 2022 -0500
+
+    Fix typo in eslint-config-airbnb-base changelog
+
+[33mcommit 7fdc87a8be565fa1f1779dc1d6b6461b953f7d85[m
+Author: terrablue <102580937+terrablue@users.noreply.github.com>
+Date:   Tue May 3 19:06:48 2022 +0200
+
+    [guide] fix eslint core rule URLs
+    
+     - fix broken eslint eol-last link
+     - remove .html ending in eslint urls
+
+[33mcommit 1677ba6c6a285366e38998e292d42a7eab64d18e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue May 3 10:41:03 2022 -0700
+
+    [eslint config] [meta] update eslint-plugin-react repo URLs
+
+[33mcommit 7c0f28af8b9cdece524fa224cbddc4ac16e948fd[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue May 3 10:33:40 2022 -0700
+
+    [eslint config] [deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `tape`
+
+[33mcommit fd2f5a1daed62e129de3fa909421568e9fa3e2e6[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue May 3 10:29:37 2022 -0700
+
+    [eslint config] [base] [deps] update `@babel/runtime`, `confusing-browser-globals`, `eslint-find-rules`, `eslint-plugin-import`, `tape`
+
+[33mcommit b4377fb03089dd7f08955242695860d47f9caab4[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Jan 11 12:09:40 2022 -0800
+
+    [meta] better `eclint` command
+
+[33mcommit 34b5bc39f1a7b8b999e041db5c3b84c0ebe0f850[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Dec 25 12:34:37 2021 -0800
+
+    [meta] revert changes from d4e39c9b10767cc77c7d0091f2eae06a6ccfc33e
+    
+    Caused by https://github.com/npm/cli/issues/3619
+
+[33mcommit d4e39c9b10767cc77c7d0091f2eae06a6ccfc33e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Dec 25 07:34:29 2021 -0800
+
+    v19.0.4
+
+[33mcommit baaa5e8d26f869c2520f991b34e701f220a66313[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Dec 24 12:27:19 2021 -0800
+
+    [eslint config] v19.0.3
+
+[33mcommit 274c8d570155a05b016980294d4204c5711bce86[m
+Author: David Petersen <david@petersendidit.com>
+Date:   Wed Nov 10 17:05:21 2021 -0600
+
+    [eslint config] [patch] set `namedComponents` option to match style guide
+    
+    Change the `namedComponents` option to `function-declaration` to match what the style guide requires.
+    
+    https://github.com/airbnb/javascript/commit/019e0f7e07477e85249e1d584f22773120c41b91#r60060792
+
+[33mcommit 38bc026fe46f807627967bed1e5e7415182cba20[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Dec 22 15:12:04 2021 -0800
+
+    [eslint config] [base] add disabled `prefer-object-has-own` rule
+
+[33mcommit 445322db64f0dbba35616ee68366f9d929970a3e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Dec 22 15:09:25 2021 -0800
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit 152bd5e85a9ba941d6a3f38643317bbfb6e1fbb3[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Dec 2 10:34:58 2021 -0800
+
+    [eslint config] v19.0.2
+
+[33mcommit afc2cc34327459dcda12ce0d0656a0ffecf100a0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Dec 2 10:04:51 2021 -0800
+
+    [eslint config] [meta] fix "exports" path
+    
+    Fixes #2524
+
+[33mcommit 371537f393da4862c624bdd90ae823bda0e251ec[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 13:44:36 2021 -0800
+
+    [Tests] re-enable tests disabled for the eslint 8 upgrade
+
+[33mcommit c05ffb2417908650ec789aa442020e34669ad824[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 13:32:11 2021 -0800
+
+    [eslint config] v19.0.1
+
+[33mcommit 97a3238020ddf3d9ae8d7e0d46d542c960cfe93b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 11:12:36 2021 -0800
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit e0bb39351941fa06978dcf90ea57cf3923c19143[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 11:12:26 2021 -0800
+
+    [eslint config] [*] [dev deps] update `tape`
+
+[33mcommit c4000b932a452a5d33663310b28ce7d11ea88f33[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 11:07:00 2021 -0800
+
+    [eslint config] [fix] `whitespace`: udpate to support eslint 8
+    
+    Fixes #2517
+
+[33mcommit 31c6f21878a4aeb13e6d3547252a88aece6002b0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 22 11:06:19 2021 -0800
+
+    [eslint config] [base] [refactor] make a single source of truth for whitespace rule names
+
+[33mcommit 91cab81f69d7b8258846e1256d06a11e544c0870[m
+Author: Yatin <yatinkathuria74@gmail.com>
+Date:   Wed Nov 17 00:14:08 2021 +0530
+
+    [readme] operator => parameter syntax
+
+[33mcommit d8cb404da74c302506f91e5928f30cc75109e74d[m
+Author: 华 <sliphua@outlook.com>
+Date:   Thu Nov 11 23:36:01 2021 +0800
+
+    [eslint config] [base] remove unneeded eslint version check
+
+[33mcommit 52e710c14ec0197cfefe131061e1fe41c966f93b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Nov 10 12:25:30 2021 -0800
+
+    [eslint config] v19.0.0
+
+[33mcommit 1bc8cabd447ef9ce69d27ae70e67eb47daeffc21[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Nov 10 11:31:18 2021 -0800
+
+    [eslint config] [breaking] support `eslint` 8; drop `eslint` < 7
+
+[33mcommit 37ebbba44cb1a7cf994c43f4b8e900b9fe7e6d22[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Nov 10 00:04:12 2021 -0800
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `safe-publish-latest`
+
+[33mcommit 930a6f2e4c98df904ec748a6a2bd4928ef6218b1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Nov 10 00:01:04 2021 -0800
+
+    [eslint config] [*] update `@babel/runtime`, `eslint-plugin-import`
+
+[33mcommit 366bfa66380c08304101c6add46355696e90b348[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 22:59:44 2021 -0800
+
+    [eslint config] [base] v15.0.0
+
+[33mcommit f3d3a075cda2acc02011e71991c10bb5b4a15278[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 18:27:29 2021 -0800
+
+    [eslint config] [base] [breaking] drop eslint < 7, add eslint 8
+
+[33mcommit eac8cc605b0ee7acf32b9b3c7fa62fa66cd35de0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 18:48:04 2021 -0800
+
+    [eslint config] [base] [breaking] add `exports`
+
+[33mcommit be6966b2514c53097b98e218afb52e813859dfe1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 22:33:12 2021 -0800
+
+    [eslint-config] [meta] add `--no-save` to link scripts
+
+[33mcommit 4fc997b97e39359c3699aa95c80586277ea565ca[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 18:42:02 2021 -0800
+
+    [readme] some updates
+
+[33mcommit 96f11d8c810de5712ba4f80adaa402057565a3be[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 22:25:39 2021 -0800
+
+    [actions] run prepublishOnly in prepublish tests
+
+[33mcommit c12a08c479ba139718bf8ab7eb21a3a5d0c520d7[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 18:27:29 2021 -0800
+
+    [actions] fix action working directories
+
+[33mcommit 10a6d02c665f35826114d66ee8f37bda1d89f59e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 21:21:58 2021 -0800
+
+    [meta] use `prepublishOnly` script for npm 7+
+
+[33mcommit ef6c478a2b2b97ccc996ed6169f3f97bff2e5395[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 18:06:45 2021 -0800
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`
+
+[33mcommit 6734b7891176ce5d2601e16f62b5c37a8479e6ae[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Nov 8 16:00:07 2021 -0800
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `object.entries`
+
+[33mcommit fdc812a0a5773449274f7c4d473e0841eca89614[m
+Author: Kai <Schweinepriester@users.noreply.github.com>
+Date:   Thu Nov 4 00:24:41 2021 +0100
+
+    [Docs] HTTP => HTTPS
+
+[33mcommit 8aec65a4d385c49550bf7e53a18044d8f09d5c06[m
+Merge: 2a6bec1 ea5b991
+Author: Joe Lencioni <joe.lencioni@airbnb.com>
+Date:   Fri Nov 5 12:49:19 2021 -0500
+
+    Merge pull request #2491 from airbnb/travis
+    
+    [Tests] migrate tests to Github Actions
+
+[33mcommit ea5b991a4f67264a7d3a2d783de67b29450f2779[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Nov 4 23:05:04 2021 -0700
+
+    [Tests] migrate tests to Github Actions
+
+[33mcommit 2a6bec1132c937c3f512da083c759bbd7da4ce90[m
+Author: Augustus Buonviri <augustus.buonviri@stratusgrid.com>
+Date:   Tue Sep 14 22:12:31 2021 -0400
+
+    [eslint config] [base] [patch] Improve `function-paren-newline` with `multiline-arguments` option
+    
+    Related to #1731
+    
+    Co-authored-by: Augustus Buonviri <augustus.buonviri@stratusgrid.com>
+    Co-authored-by: Jordan Harband <ljharb@gmail.com>
+
+[33mcommit 82dbec3c995687fd6e08151c6d97768f6d970d56[m
+Author: Johnwesley R <jwr12135@gmail.com>
+Date:   Sun Oct 17 14:27:43 2021 -0400
+
+    [guide] Fix 14.1 Temporal Dead Zones link
+
+[33mcommit 122788230acdc416e3168e07f7d0bf89a744dd94[m
+Author: Mustafa Haddara <mhaddara@pagerduty.com>
+Date:   Fri Oct 15 17:00:15 2021 -0400
+
+    [eslint config] clarify hooks requirement
+
+[33mcommit 4ee732639396362c6981b1aa4730934c3baa7919[m
+Author: Marko Schulz <Marko.Schulz@gmail.com>
+Date:   Fri Sep 24 11:26:03 2021 +0200
+
+    [eslint-config-airbnb] [patch] Explain why `react/jsx-key` is turned off
+
+[33mcommit 7fbed3b55c9815251d1a9790f42ce7b278687a47[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Sep 28 21:44:21 2021 -0700
+
+    [eslint-config-airbnb] [deps] update `eslint-plugin-react`
+
+[33mcommit 30927d25036805a36d15ca71742f5a17bc6a1642[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Sep 28 21:41:06 2021 -0700
+
+    [*] [deps] update `@babel/runtime`, `eslint-plugin-import`, `tape`
+
+[33mcommit f5c14cae2ff58000cead98290b8ec4b54dda2f14[m
+Author: Luke Ingalls <lukeingalls@me.com>
+Date:   Fri Jun 18 19:49:13 2021 -0600
+
+    [readme] fixed typo and removed redundancy
+
+[33mcommit 428c9ddb7e27466c74fb3b02d20d427d8500f7c9[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Jun 29 10:03:15 2021 -0700
+
+    [*] [deps] update `@babel/runtime`, `eslint-plugin-import`, `eslint-plugin-react`
+
+[33mcommit af8bdf17ddf7752021ef6cbfe5c23ac8fb307f26[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Jun 29 09:56:18 2021 -0700
+
+    [*] [deps] update `object.entries`
+
+[33mcommit d5d406a849f03b8ce1bc8848acb7ef1690d29c85[m
+Author: amirvatani <amirhosseinvatani75@gmail.com>
+Date:   Sun May 9 00:10:31 2021 -0700
+
+    [readme] add AloPeyk to "in the wild"
+
+[33mcommit 35914b14025cd52f53cd2ae2f353cdc7384087c0[m
+Author: Asher Hwang <dev@hsh.kr>
+Date:   Tue May 11 09:08:23 2021 +0900
+
+    [guide] Spread operator => Spread syntax
+
+[33mcommit 1fb4592122ef94029b3ff2f361408f0681751253[m
+Author: Kiran S <18kirans@gmail.com>
+Date:   Tue May 4 21:15:46 2021 +0530
+
+    [guide] add references for eslint rules
+
+[33mcommit 5641278fa1df75ba3b6af2959a553bd682c0ad42[m
+Author: Kushang Shah <kushangshah131@gmail.com>
+Date:   Fri Apr 23 09:12:07 2021 +0530
+
+    [editorial] add `var` info to `let`/`const` section
+
+[33mcommit dc3af3a90ebf56a5e9df2d4c7b40d6518200bb87[m
+Author: Kiran S <18kirans@gmail.com>
+Date:   Mon May 3 21:39:00 2021 +0530
+
+    [eslint config] [base] update default value for complexity
+
+[33mcommit 1eadb93e377da1e56c3f91f26610e5d0a00738a9[m
+Author: Mackenzie Morgan <macoafi@gmail.com>
+Date:   Thu Dec 17 00:18:29 2020 -0500
+
+    [eslint config] [fix] bump eslint-plugin-react-hooks peer dependency version
+    
+    Fixes #2355
+
+[33mcommit 0cf78acab0fff90e9591dedd8783b62a72ffc118[m
+Author: Cong Zhang <dancerphil1994@gmail.com>
+Date:   Wed Mar 24 18:17:15 2021 +0800
+
+    [guide] Fix 19.6 example code
+
+[33mcommit 730b74927432d5931f9047322e925fb7e1c07be6[m
+Author: Diane Ko <backwardok@users.noreply.github.com>
+Date:   Wed Mar 24 18:38:08 2021 -0700
+
+    [eslint config] [patch] Alphabetize the rules for react-a11y.js
+    
+    The ordering of the rules are currently not alphabetical, which can make it hard to tell whether there are rules missing or what's set for each rule from eslint-plugin-jsx-a11y.
+    
+    This change alphabetizes the list so it's easier to compare to the [list of supported rules](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y#supported-rules)
+
+[33mcommit 4d837646b7ae2a37780f91423479e65949863570[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Mar 24 23:33:38 2021 -0700
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit 1b540ba14ea15c28f4028e4216373d0eeb96dde0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Mar 24 23:32:41 2021 -0700
+
+    [*] [dev deps] update `tape`
+
+[33mcommit 711aeb650db14c3b8cc329511ac508ee05bc1af6[m
+Author: kimhanui <30483337+kimhanui@users.noreply.github.com>
+Date:   Thu Mar 18 08:43:41 2021 +0900
+
+    [editorial] Complete 19.6 example code (cut in the middle)
+    
+    Fixes #2403
+
+[33mcommit 9c181108a7f11be1b97191f17c9ab2dc98e28c6e[m
+Author: Ikko Ashimine <eltociear@gmail.com>
+Date:   Fri Jan 8 20:40:02 2021 +0900
+
+    [meta] Fix typo in .markdownlint.json
+    
+    preceeding -> preceding
+
+[33mcommit ea5ec0c5242a4b987eb4a2861d65298450fb05d0[m
+Author: marsonya <akhil.marsonya27@gmail.com>
+Date:   Wed Dec 30 10:44:32 2020 +0530
+
+    [readme] removed dead links - 404 not found
+
+[33mcommit db8b6ceb33289b542e8aca192a6aefaf21c4a14c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 29 21:37:48 2020 -0800
+
+    [eslint config] update `eslint-plugin-react`, add new rules, disabled
+
+[33mcommit b9ff0aee71a31ebc5ec7b022c8a9fab49a589d7e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 29 21:34:18 2020 -0800
+
+    [eslint-config] [base] add disabled `no-unsafe-optional-chaining` rule
+
+[33mcommit fb3214c9d650ed66d7e363e8b2eed0f07e514d32[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 29 21:32:29 2020 -0800
+
+    [*] [deps] update `object.entries`
+
+[33mcommit 66cd156a489f2fb82aa55fd4d556ff1c0be9b4e4[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 29 21:32:08 2020 -0800
+
+    [*] [dev deps] update `tape`
+
+[33mcommit 63098cbb6c05376dbefc9a91351f5727540c1ce1[m
+Author: Hollow Man <hollowman@hollowman.ml>
+Date:   Fri Nov 20 22:49:57 2020 +0800
+
+    [eslint config] [base] [patch] arthmetic -> arithmetic
+
+[33mcommit 1f786e154f6c32385607e1688370d7f2d053f88f[m
+Author: Jeremy <jeremy.mullis@gmail.com>
+Date:   Wed Nov 11 20:17:20 2020 -0600
+
+    [eslint config] [base] [patch] fix spelling of "than"
+    
+    you mean "than" not "then".
+
+[33mcommit 5620bd5620b17184f57cd97ebf03b0efee3cc464[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Nov 21 00:59:24 2020 -0800
+
+    [eslint config] [base] add `no-nonoctal-decimal-escape` rule
+
+[33mcommit f0df3a8680479ff0b897cd98a1eab6b156899214[m
+Author: Hugo Alliaume <kocal@live.fr>
+Date:   Sat Nov 7 08:17:29 2020 +0100
+
+    [eslint config] [base] `import/no-extraneous-dependencies`: Add .eslintrc.js to devDeps
+    
+    Similar to #1168 and #1522.
+
+[33mcommit 37d48dbf6082bd8958fdc5db5df207bb1166d653[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 14:20:24 2020 -0800
+
+    [eslint config] v18.2.1
+
+[33mcommit e5de51e55f56a68891f1cb95fe234649c015e279[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 14:19:17 2020 -0800
+
+    [eslint config] [patch] re-add `jsx-a11y/accessible-emoji`, but disabled
+    
+    See #2322
+
+[33mcommit eee79a5455c93bb094d673cf194df5e6403d573e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 14:14:17 2020 -0800
+
+    [eslint config] [deps] update `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+
+[33mcommit b7015dd0b3811e71b9423342124d5cf135f78785[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 14:12:51 2020 -0800
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`
+
+[33mcommit 36f23d7886e42aaa5530d2da0541b1f3faf8b4a6[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 10:10:00 2020 -0800
+
+    [eslint config] [base] v14.2.1
+
+[33mcommit e149b0536659a464c34dad19276f9db3e6c9a16c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 10:03:46 2020 -0800
+
+    [eslint config] [*] [deps] update `confusing-browser-globals`, `object.assign`
+
+[33mcommit f0492d59bdee973ad1362b290a75016dea279953[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 10:00:59 2020 -0800
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-import`
+
+[33mcommit 25b64d7f46a1efc85792dc250d0d1a2eb705a0d8[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Nov 6 09:59:46 2020 -0800
+
+    [dev deps] update `markdownlint`, `markdownlint-cli`
+
+[33mcommit 8996aa7c5369baef60c5c8c07df4b6eaae46279e[m
+Author: Kyℓe Hensel <k-yle@users.noreply.github.com>
+Date:   Tue Oct 27 08:54:41 2020 +1300
+
+    [eslint config] [patch] remove deprecated `jsx-a11y/accessible-emoji` rule
+
+[33mcommit 05c3bb0018fcd46a41fec07a1308075c7aaea197[m
+Author: Alex Mercier <pro.alexandre.mercier@gmail.com>
+Date:   Fri Oct 23 13:30:37 2020 +0100
+
+    [eslint config] [patch] Fix ignoreNonDOM typo in jsx-a11y/aria-role rule
+    
+    This should be `ignoreNonDOM` not `ignoreNonDom` according to [documentation](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-role.md).
+
+[33mcommit d3c7b84d9e513fc1388de28775574ed614ee33e6[m
+Author: alvyn le <alvyn279@gmail.com>
+Date:   Wed Sep 23 01:30:35 2020 -0400
+
+    [eslint config] [patch] Fixed `handle` and `on` ordering in `sort-comp` rule
+    
+    - fixes #2116
+
+[33mcommit b30b0e4d917bf74d90cc39c4d74237957fe7b603[m
+Author: Samuel Scheiderich <samsch@users.noreply.github.com>
+Date:   Sat Oct 24 16:30:10 2020 -0400
+
+    [eslint-config] [base] `no-restricted-globals`: add better messages
+
+[33mcommit 2c5c88d0487db3024e8a20bb20f46933a03dd8aa[m
+Author: Michael Flores <mike@michaelflores.io>
+Date:   Wed Oct 21 23:10:31 2020 -0500
+
+    [guide] Update reason for preferring object destructuring
+    
+    Fixes #2293
+    
+    The reason for preferring object destructuring is quite narrow in scope. While this guide isn't intended to provide every possible reason for every preference, it perhaps should aim to provide a succinct and compelling reason. The current reasoning could be improved to meet this standard, so I'm proposing adding some additional information to clarify the benefits of what is an often controversial rule (controversial only because its introduction can require many changes in a mature codebase and has no auto fix available).
+
+[33mcommit ee2f22a10c0b82a21eaa7743905712b6cb145fc2[m
+Author: Daniel Paz <42693974+danielpaz6@users.noreply.github.com>
+Date:   Fri Oct 16 14:02:43 2020 +0300
+
+    [guide] Better link reference to Drupal's linter
+    
+    This link was taken from their Code standard page: https://www.drupal.org/docs/develop/standards/javascript/eslint-settings
+    
+    The previous link wasn't very informative and required a download process in order to check their standards.
+
+[33mcommit aa43bb23987a14baaa795cf795540a3f2eb41872[m
+Author: Daniel Paz <42693974+danielpaz6@users.noreply.github.com>
+Date:   Wed Oct 14 18:48:40 2020 +0300
+
+    [guide] add explanation about why to use radix when using parseInt
+    
+    I added an explanation at [22.3](https://github.com/airbnb/javascript/blob/master/README.md#coercion--numbers) why to use radix once parseInt, this explanation has been taken from [Mozilla's docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt#Octal_interpretations_with_no_radix).
+    
+    I think it's not clear without an explanation since people can think that it's obvious that string will be parsed to 10 base number, but it's not always the case.
+
+[33mcommit 82170f91272bcda42556c91cb40056b309b999c7[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Sun Oct 11 21:28:52 2020 +0700
+
+    [guide] add eslint rule reference for `prefer-object-spread`
+
+[33mcommit 5ebfe3e5b8b72f301228cc1718685d1db9ae5f49[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Tue Oct 6 21:36:29 2020 +0700
+
+    [guide] add eslint rule reference for `default-param-last`
+
+[33mcommit 337f60706fcaeb4e897e8fe38f8af39e8ea410b9[m
+Author: Android Dev Notes <awesomedevnotes@gmail.com>
+Date:   Sun Sep 6 02:02:14 2020 +0530
+
+    [guide] Fix grammatical errors
+
+[33mcommit 6006d6d2dfe0a47fdd18acd6f2a9e207ef0cc8f8[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Aug 27 14:29:09 2020 -0700
+
+    [guide] fix dead es-discourse link
+    
+    Fixes #2274.
+
+[33mcommit a24dc34a4a2748c99006a48e997aa0a06b1d4d94[m
+Author: Akshath Sivaprasad <akshath@berkeley.edu>
+Date:   Wed Aug 5 21:38:20 2020 -0700
+
+    [guide] [react] Add examples for formatting multiline conditional components
+
+[33mcommit 1dc71d38395633f9f9099614765bd4361c9a9c64[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 3 09:36:24 2020 -0700
+
+    [guide] [react] add missing PascalCase guidance for prop names
+
+[33mcommit 973384be1b4ec2c58c5d9ba113a54a10cb757b96[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Aug 5 22:06:20 2020 -0700
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+
+[33mcommit 3dcc59112308211b6ac8478a4ad997ed3f17d9b1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Aug 5 22:04:10 2020 -0700
+
+    [eslint config] [base] add `id-denylist` rule
+
+[33mcommit c5bee75b1b358a3749f1a6d38ee6fad73de28e29[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jun 22 22:55:52 2020 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, use valid `import/no-cycle` `maxDepth` option
+
+[33mcommit 5124de23da0190b686850c9582e5a0960a607ae6[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Jun 27 13:22:33 2020 -0700
+
+    [eslint config] [base] add new rules from v7.3
+
+[33mcommit 54955410ee53fd82e6caa5879ccd0c413640706a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 18 13:11:38 2020 -0700
+
+    [eslint config] v18.2.0
+
+[33mcommit 197b50c07627863e5b3524504bf4f3240a0e2537[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 18 11:57:41 2020 -0700
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-jsx-a11y`
+
+[33mcommit f550ded6dab8dac9d42f2dfa5f2ed9858f0fe045[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 18 12:03:46 2020 -0700
+
+    [eslint config] [tests] fix for eslint 7
+
+[33mcommit 562e3519b874d91b369c5c6fe8a94408a380758b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 18 11:53:53 2020 -0700
+
+    [Dev Deps] update `markdownlint`, `markdownlint-cli`
+
+[33mcommit 78457af2c55cc62cf4379c190b7621a341814692[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Jun 10 23:25:49 2020 -0700
+
+    [eslint config] [base] v14.2.0
+
+[33mcommit 5b462a04cdfebba712a3df18926edfcb4103d2a9[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Jun 10 15:43:13 2020 -0700
+
+    [eslint config] [*] [new] add `eslint` `v7`
+
+[33mcommit 22adc06f56a94437a533c4935d6706a511b3dc36[m
+Author: Kristóf Poduszló <kripod@protonmail.com>
+Date:   Fri Apr 10 00:47:18 2020 +0200
+
+    [eslint config] [minor] Allow using `eslint-plugin-react-hooks` v3 and v4
+    
+    Co-authored-by: Kristóf Poduszló <kripod@protonmail.com>
+    Co-authored-by: Jordan Harband <ljharb@gmail.com>
+
+[33mcommit fe2e451ba75b2ebfedc1cf4f9bf217f104b06a1d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Jun 10 14:58:23 2020 -0700
+
+    [Tests] add `node` `v14`; remove `v9`, `v11`
+
+[33mcommit b58700607707c7e280e5e266a884115cbcea806c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Jun 10 14:49:21 2020 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`
+
+[33mcommit 8aee3e160053d07b4c156f0885fb5a6da4e19603[m
+Author: Vlad Shcherbin <vlad.shcherbin@gmail.com>
+Date:   Wed May 20 13:21:10 2020 +0300
+
+    [eslint config] [base] [patch] Include 'context' exception for `no-param-reassign`
+
+[33mcommit cad3db31695631a7877cece8903eea1f41d59e03[m
+Author: Vlad Shcherbin <vlad.shcherbin@gmail.com>
+Date:   Sun Jun 7 00:01:51 2020 +0300
+
+    [eslint config] [base] [minor] Disallow multiple empty lines
+
+[33mcommit 7aa0fa14d65d10e7bf259089d9964d41eb8ca5e0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jun 7 20:50:43 2020 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-react`, `babel-preset-airbnb`, `eslint-find-rules`, `in-publish`, `tape`
+
+[33mcommit d34f8074590e1497a9a90947181339435ce335d4[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jun 7 20:05:48 2020 -0700
+
+    [Deps] update `object.entries`
+
+[33mcommit c48a060aff9a4ba66003b18e6a27fd899581f95a[m
+Author: Severiano Badajoz <sevebadajoz@gmail.com>
+Date:   Fri Jun 5 15:09:12 2020 -0700
+
+    [eslint config] [patch] set `explicitSpread` to ignore for `react/jsx-props-no-spreading`
+
+[33mcommit 06b3ab11d9a443ff46f052dd00375e271e5146e6[m
+Author: Paul Matthew Barrameda <luisanduis729@gmail.com>
+Date:   Wed Feb 19 22:56:52 2020 -0800
+
+    [eslint config] [minor] Fix typo in no-multiple-empty-lines rule
+    
+     ## Why is the change being made?
+    
+    This change is made because the Airbnb documentation states to "avoid a
+    newline at the beginning of files", yet the code does not follow this.
+    
+     ## What has changed to address the problem?
+    
+    This change fixes the `no-multiple-empty-lines` rule by setting max
+    beginning of file (`maxBOF`) to from 1 to 0.
+    
+     ## How was this change tested?
+    
+    This change was tested with `npm test`.
+    
+     ## Related docs
+    
+    https://github.com/airbnb/javascript#whitespace--no-multiple-empty-lines
+
+[33mcommit c0ee2c492460ac7428286c2bb0b48b4a058430fa[m
+Author: 小蚊酱 <baibai194@gmail.com>
+Date:   Tue Mar 31 17:41:38 2020 +0800
+
+    [guide] unquote properties in whitespace key spacing section
+
+[33mcommit e4f3dd4effd8e579427eeceb60d2f4e2ed5d08a7[m
+Author: Jiahao <jahowchen@outlook.com>
+Date:   Tue Mar 10 23:24:39 2020 -0400
+
+    [react] Update Chinese (Simplified) Translation
+    
+    The translation for Chinese (Simplified) is outdated. Changed to an up-to-date translation that synced with current English version, enhanced expressions for better readability, and also added notes of technical terms for Chinese readers.
+
+[33mcommit 0375265cbd43635f8062615995a6a86f22fd0fc2[m
+Author: Nick Reiley <bloomber111@gmail.com>
+Date:   Mon Mar 16 23:27:49 2020 +0500
+
+    [eslint config] [base] [patch] Allow triple-slash (///) comments
+
+[33mcommit d3628e26003a602535b91a8951da7a692fc685ca[m
+Author: Nick Reiley <bloomber111@gmail.com>
+Date:   Mon Mar 16 23:39:16 2020 +0500
+
+    [eslint config] [base] [patch] Disable `prefer-object-spread` for `airbnb-base/legacy`
+
+[33mcommit f075a0db50f1fd6a798cb6e0c3677421deb7b522[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Mar 14 15:39:55 2020 -0700
+
+    [eslint config] [patch] relax `eslint-plugin-react-hooks` down to v2.3, due to a controversial change in v2.5
+    
+    Fixes #2195.
+
+[33mcommit d529ccaea3b3da1c1cfce686b119d662e8e05c69[m
+Author: David J. Bradshaw <david.j.bradshaw@gmail.com>
+Date:   Sat Mar 14 07:36:30 2020 +0000
+
+    [eslint config] readme: fix typo
+
+[33mcommit a3355f90c4b52445dbe828fd4e71a7e7d12ef202[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 22:58:43 2020 -0700
+
+    [eslint config] v18.1.0
+
+[33mcommit e7062c32bbb032a721dedbc5982b8fefe8b6850a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 22:47:00 2020 -0700
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`
+
+[33mcommit c75b66daa6e9f1bc0c80138465ad5115764fb18d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 16:45:56 2020 -0700
+
+    [eslint config] [base] v14.1.0
+
+[33mcommit e279b6d3a86aacbb03bd7059b899f12bfb201497[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 15:58:42 2020 -0700
+
+    [eslint config] [*] [deps] update `eslint`, `eslint-plugin-react`, `eslint-plugin-react-hooks`
+
+[33mcommit 6924bd36041c59d7b248e47f31667dbe56a8aa55[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 15:58:18 2020 -0700
+
+    [Dev Deps] update `@babel/runtime`
+
+[33mcommit 165af9b6c881a0e413df824276aab4c7134dc4f9[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Mar 12 15:41:30 2020 -0700
+
+    [Tests] actually run the linter on subpackages
+
+[33mcommit e6e6414c973d6aa5f3672296fe3cf6c399ca570a[m
+Author: Dmitry Semigradsky <semigradskyd@gmail.com>
+Date:   Mon Mar 9 12:55:31 2020 +0300
+
+    [guide] Add link to eslint rule for https://github.com/airbnb/javascript#modules--multiline-imports-over-newlines
+
+[33mcommit 717ba5187af3b4c36877c2a7031edf202e72cf88[m
+Author: lagagain <lagagain@email.com>
+Date:   Fri Feb 28 14:53:58 2020 +0800
+
+    [guide]: add "bigint" type to the primitives type section.
+    
+    ```js
+    var bn = 123n
+    ```
+    (with "n" as suffix)
+
+[33mcommit 9890b4067700be1f2d045788f4ea5fbf12b5f8bf[m
+Author: Cain Hall <cain.hall98@gmail.com>
+Date:   Mon Mar 2 16:27:57 2020 +1100
+
+    guide: import/extensions rule documentation
+
+[33mcommit 3493b060ec5efddc8a06733b5dbfe9f33cbce63e[m
+Author: Julian Grinblat <julian@dotcore.co.il>
+Date:   Mon Sep 16 19:37:29 2019 +0900
+
+    [eslint config] [minor] Support eslint-plugin-react-hooks@2
+
+[33mcommit 019e0f7e07477e85249e1d584f22773120c41b91[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Feb 13 17:42:08 2020 -0800
+
+    [eslint config] add config for disabled new rules
+
+[33mcommit 41ca203e3e5afff7ccc74179caf72494c2e7bd01[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Feb 7 08:05:47 2020 -1000
+
+    [Dev Deps] update `markdownlint-cli`
+
+[33mcommit 651280e5a22d08170187bea9a2b1697832c87ebc[m
+Author: Kévin Berthommier <bertho-zero@users.noreply.github.com>
+Date:   Fri Feb 7 16:49:10 2020 +0100
+
+    [eslint config] [base] Fix indentation with JSX Fragments
+
+[33mcommit f86f19cefc3b1ce19c4bf473606c95de86779b68[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Feb 7 08:32:08 2020 -1000
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-react`
+
+[33mcommit 4df908033fb52184ac58deacc19c00ceb11020d1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Feb 7 08:29:46 2020 -1000
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`, `babel-preset-airbnb`, `safe-publish-latest`, `tape`
+
+[33mcommit 377fbcac88728737dd8bd3180ec3819c3a2a5231[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Feb 7 08:25:49 2020 -1000
+
+    [eslint config] [*] [deps] update `object.entries`
+
+[33mcommit 6d05dd898acfec3299cc2be8b6188be542824965[m
+Author: Geo Artemenko <geo.artemenko@gmail.com>
+Date:   Fri Nov 22 22:04:23 2019 -0500
+
+    [eslint config] [*] [readme] normalize multiline word according to merriam-webster
+
+[33mcommit b5954c32b34aab98d6713692fd33695fe8f7b12b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 10 16:47:51 2019 -0800
+
+    [eslint config] [base] [deps] [minor] add new disabled rules, update eslint
+
+[33mcommit 370793b3ddfecfef29c05a62bdf17ec3d1b0a8b3[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Dec 10 16:32:17 2019 -0800
+
+    [eslint-config] [*] [fix] `whitespace`: only set erroring rules to "warn"
+    
+    Fixes #2105
+
+[33mcommit 2e3adc98c784be7fa63c7a05271f7aa86c9d6bc7[m
+Author: Jonas Scheffner <jonas.scheffner@share-now.com>
+Date:   Mon Oct 28 13:42:10 2019 +0100
+
+    [eslint config] [base] [patch] `import/no-extraneous-dependencies`: Support karma config files
+
+[33mcommit 5927c7f706feee7542341faaa298176c2a82263d[m
+Author: Vse Mozhet Byt <vsemozhetbyt@gmail.com>
+Date:   Fri Nov 8 16:05:06 2019 +0200
+
+    [guide] fix possible typo
+
+[33mcommit 56b75dc3592c2118cefc5296c94d5fce5923a487[m
+Author: Igor Gassmann <igor@igassmann.me>
+Date:   Sun Nov 3 21:00:57 2019 +0100
+
+    [guide] Document `class-methods-use-this`
+    
+    This PR documents the currently enforced `class-methods-use-this` ESlint rule as discussed in #2129
+
+[33mcommit 64b965efe0355c8290996ff5a675cd8fb30bf843[m
+Author: trg <cactusx09@gmail.com>
+Date:   Tue Oct 1 01:27:12 2019 +0300
+
+    [guide] Fix Temporal dead zone link anchor
+
+[33mcommit 3fb312f18198364bacc07e61ca58ff89f9f0afa2[m
+Author: Alexander Wesolowski <foglerek@gmail.com>
+Date:   Fri Oct 4 15:57:05 2019 -0700
+
+    [eslint config] [patch] Add `static-variables` to `sort-comp` rule
+
+[33mcommit 8f78e1f44b9ca2f3a7da970771982694fa84fd72[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Sat Oct 5 08:01:44 2019 +0700
+
+    [tests] re-enable eslint rule `prefer-destructuring` internally
+
+[33mcommit 5a32c33bf2bf967ce32bae2fd33b3fea275a99be[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Sat Oct 5 08:49:01 2019 +0700
+
+    [eslint config] [base] [minor] enable `import/no-useless-path-segments` for commonjs
+    
+    Fixes #2077.
+
+[33mcommit df2c99c81474ab0fe9aecf0244d465785d3ee3df[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Sat Oct 5 08:21:45 2019 +0700
+
+    [tests] fix eslint errors from c66cfc3
+
+[33mcommit ab72ab9e90f403e90590f8815e0563248af10470[m
+Author: Filipp Riabchun <talpa@yandex.ru>
+Date:   Thu Oct 3 21:31:32 2019 +0200
+
+    [eslint config] [patch] Remove duplicate `componentDidCatch`
+    
+    See https://github.com/airbnb/javascript/pull/2043#discussion_r331208075
+    
+    I left the one before `cWU`, as in [defaults](https://github.com/airbnb/javascript/pull/2043#discussion_r331208075)
+
+[33mcommit dee4f172e752f3e6180f88409aa4424de02f9d4c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Oct 3 19:18:32 2019 -0400
+
+    [eslint config] [base] add new rules in eslint 6.x, disabled
+
+[33mcommit c66cfc3f89335643b6fd89def665b959389b70ea[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Oct 3 19:20:10 2019 -0400
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit 8c94d53bf88346cc4f55bfed769e3ee8c8247f80[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Oct 3 19:10:47 2019 -0400
+
+    [eslint config] [*] [dev deps] update `@babel/runtime`, `babel-preset-airbnb`, `safe-publish-latest`
+
+[33mcommit 79047a947000b4b328fb9a6579d00e538768629e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Oct 3 19:10:12 2019 -0400
+
+    [eslint config] [base] [deps] update `confusing-browser-globals`
+
+[33mcommit 7932a52e4b8f5a96089b245e2086769bf30cf0e4[m
+Author: Tom Prats <tprats108@gmail.com>
+Date:   Wed Sep 4 14:11:39 2019 -0400
+
+    Added Tomify and Traitify to the organizations
+
+[33mcommit 1ca21aba799699ba556bed058e3900514a9fbee3[m
+Author: Daniel Gray <DanielFGray@gmail.com>
+Date:   Sat Aug 17 19:14:24 2019 -0500
+
+    [eslint config] clarify hooks section in readme
+    
+    It took me too long to realize that `"extends": "airbnb/hooks"` won't cut it, and that you need to include both `"extends": ["airbnb", "airbnb/hooks"]`. I think the docs should be explicit about this.
+
+[33mcommit 295d1e61cbebd33d06cbd287fc1d7ea59ba959f7[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Aug 14 08:46:20 2019 -0700
+
+    [guide] clean up confusing example from bad rebase
+    
+     ... from
+    https://github.com/airbnb/javascript/commit/820745d61090139193cf9257b88974e36dfc9b35#diff-04c6e90faac2675aa89e2176d2eec7d8R963-R965
+    / #1863.
+    
+    Fixes #2071.
+
+[33mcommit a204cdf38a3e67a405c191773456d18296a9b37b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Aug 13 12:30:37 2019 -0700
+
+    [eslint config] v18.0.1
+
+[33mcommit 530278467f8b0a1b2aee632fbeee543e6732ef35[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Tue Aug 13 12:29:20 2019 -0700
+
+    [eslint config] [patch] `react/state-in-constructor`: fix incorrect configuration
+
+[33mcommit bdba997ac704f7fdcebf4467babaa3f35828c0a5[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Aug 10 08:41:05 2019 -0700
+
+    [eslint config] v18.0.0
+
+[33mcommit 1e0a696730256af82d284f37a66032681cf23387[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:54:08 2019 -0700
+
+    [eslint config] [breaking] disable `label-has-for`; enable `control-has-associated-label`
+
+[33mcommit 73f71d9ba4f9ae48054438420c27651fc924d196[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:53:03 2019 -0700
+
+    [eslint config] [breaking] enable `react/jsx-props-no-spreading`
+
+[33mcommit 089022aeff7b4d753c9f419c5b4e3a26cdf625b8[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:52:44 2019 -0700
+
+    [eslint config] [minor] enable `react/static-property-placement`
+
+[33mcommit 7f5a65832daf975b36426171ecbde97574c0ad3d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:52:29 2019 -0700
+
+    [eslint config] [minor] enable `react/state-in-constructor`
+
+[33mcommit 25075b5f72bb6fad25fb4f72201aaee62b46fea6[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:50:40 2019 -0700
+
+    [eslint config] [minor] enable `react/jsx-curly-newline`
+
+[33mcommit a23f93eb001ec398ff42f37945b01db2787f6c93[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:48:45 2019 -0700
+
+    [eslint config] [breaking] enable `react/jsx-fragments`
+
+[33mcommit b447768ad322d87ca88a0ecb9e0d0d6168d19aca[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:48:11 2019 -0700
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-react`
+
+[33mcommit b05573cae4282e643c432ae688f2eb4cef229991[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:41:02 2019 -0700
+
+    [eslint config] [base] v14.0.0
+
+[33mcommit e6f591f660a16da51a8fe8a9239703b9bde82c13[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 23:22:48 2019 -0700
+
+    [Dev Deps] update babel-related deps to latest
+
+[33mcommit 282ef9ea9051dce725f382ac83cb5c3f2d4da0c2[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:46:22 2019 -0700
+
+    [eslint config] [base] [breaking] `no-self-assign`: enable `props` option
+
+[33mcommit d490ee1806abdf07fe53f023384b223dab643b0b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:45:49 2019 -0700
+
+    [eslint config] [base] [breaking] enable `no-useless-catch`
+
+[33mcommit 08f8093ed112306b360e6d5f21eb45bedf69f214[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:45:27 2019 -0700
+
+    [eslint config] [base] [breaking] enable `max-classes-per-file`
+
+[33mcommit d03a712bba592da02631fb30824f6661788b2120[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:44:01 2019 -0700
+
+    [eslint config] [base] [breaking] enable `no-misleading-character-class`
+
+[33mcommit f0c767fd398b7b10ee189a701823630d25100598[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:43:20 2019 -0700
+
+    [eslint config] [base] [breaking] enable `no-async-promise-executor`
+
+[33mcommit 88e71e6e5223701d353325035383c3a8d9fd88b2[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:42:20 2019 -0700
+
+    [eslint config] [base] [breaking] enable `prefer-object-spread`
+
+[33mcommit 11ede40d55734064f2d497e29cb7fde21d3df209[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:41:33 2019 -0700
+
+    [eslint config] [base] [breaking] `func-name-matching`: enable `considerPropertyDescriptor` option
+
+[33mcommit e257deebd4544cf3609d5336f463688981897fe7[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:40:53 2019 -0700
+
+    [eslint config] [base] [patch] `camelcase`: enable ignoreDestructuring
+
+[33mcommit 6b5922ca2132980609fe217353162c2338b29ae2[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 22:39:06 2019 -0700
+
+    [eslint config] [breaking] set react version to "detect"
+    
+    Fixes #1983.
+
+[33mcommit a490005ddfbd73f96f0fc4335bf035cd554ad2e6[m
+Author: Behnam Mohammadi <itten@live.com>
+Date:   Sat Jul 6 23:45:11 2019 +0430
+
+    [react] event handlers should not return values
+
+[33mcommit bb011c2f2f22e91399b2c5a0b90eb797b6e15d24[m
+Author: Jeff VanDyke <jeffvd.a216@gmail.com>
+Date:   Thu Nov 29 09:13:54 2018 -0500
+
+    [eslint config] [base] [patch] Add markers to spaced-comment block for Flow types
+    
+    See <https://flow.org/en/docs/types/comments/>
+
+[33mcommit 8148bfce3c670a8a234ee71903ca020e32506884[m
+Author: Vladimir Kutepov <frenzzy.man@gmail.com>
+Date:   Tue Oct 10 18:21:50 2017 +0300
+
+    [eslint config] [base] [patch] Do not prefer destructuring for object assignment expression
+    
+    ```js
+    let param = 'default value';
+    
+    if (object)
+      param = object.param; // <= prefer-destructuring
+    }
+    
+    // ...
+    ```
+    I think that `param = object.param;` is better than `({ param } = object);` because it is easier to read and tedious to write brackets by hand.
+    
+    MDN: [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+[33mcommit 19e9ce31fe051c2232c90bf63dab0ee2fe0efbaf[m
+Author: amanjain <91aman@gmail.com>
+Date:   Thu Jan 12 12:15:39 2017 +0530
+
+    [eslint config] [base] [breaking] `padded-blocks`: enable `allowSingleLineBlocks` option
+
+[33mcommit 61c7ae61895af2b3c7938015eaf72ca1e0fddb3e[m
+Author: Felipe Pinheiro <felipe@jungledevs.com>
+Date:   Mon Jun 17 12:58:54 2019 -0300
+
+    [eslint config] Add missing/unsafe lifecycle methods to react/sort-comp rule
+
+[33mcommit 8c686eac4b93bff8710ab1c31b3223bc5dc2f18d[m
+Author: Rahil Vora <rvora@CHIC02VQ0XPG8WN.sea.corp.expecn.com>
+Date:   Mon Jul 22 11:27:02 2019 -0500
+
+    [eslint config] add componentDidCatch to lifecycle for react/sort-comp
+
+[33mcommit a344d6c8e7f21e6af107ed3e335068bf6a621c5d[m
+Author: JBallin <JBallin@users.noreply.github.com>
+Date:   Mon Jun 10 13:49:58 2019 -0700
+
+    [guide] [eslint config] [base] [breaking] `no-multiple-empty-lines`: Restrict empty lines at beginning of file
+
+[33mcommit 2160a77baa5eb62b78f0c2cfecfc37086e78c657[m
+Author: Waseem Dahman <dwaseem@icloud.com>
+Date:   Tue Mar 12 23:36:07 2019 -0400
+
+    [eslint config] [breaking] [react] add `react-hooks` plugin
+
+[33mcommit ad0c44c6affa87743419038682f00c0b9d0d9989[m
+Author: Ed Morley <501702+edmorley@users.noreply.github.com>
+Date:   Tue Nov 20 12:06:34 2018 +0000
+
+    [eslint config] Remove rules/strict from 'extends'
+    
+    Since the file is now imported in base instead.
+    
+    Fixes #1582.
+
+[33mcommit 42c647f31b046fd56a51316caf681846100abd4f[m
+Author: Ed Morley <501702+edmorley@users.noreply.github.com>
+Date:   Tue Nov 20 12:04:17 2018 +0000
+
+    [eslint config] [base] [breaking] Set 'strict' to 'never'
+    
+    Previously `rules/strict.js` was only used by `eslint-config-airbnb`
+    and not base. This change reduces the duplication, and means the rule
+    is now set to 'never' as opposed to the ESLint default of 'safe'.
+    
+    For users that left the `sourceType` at this preset's default of
+    `module` this change will be a no-op, since in module-mode the
+    `strict` rule always behaves as though 'never' had been set.
+    
+    See:
+    https://eslint.org/docs/rules/strict#options
+
+[33mcommit b96341fb86f28e421ec5a6674ab55d95f6f4c1ad[m
+Author: Ed Morley <501702+edmorley@users.noreply.github.com>
+Date:   Tue Nov 20 11:55:50 2018 +0000
+
+    [eslint config] [base] [breaking] legacy: Enable 'strict'
+    
+    This enables the `strict` rule in 'safe' mode:
+    https://eslint.org/docs/rules/strict#safe
+
+[33mcommit f6acb789a02a3295cfb2ae8c48f0e11060a0634c[m
+Author: Sharmila <sharmila.jesupaul@airbnb.com>
+Date:   Tue Jul 10 15:19:05 2018 -0700
+
+    [guide] [eslint config] [base] [breaking] Simplifies `no-mixed-operators`
+    
+    - adds warning on mixing `/` and `*` arithmetic operators
+    - removes warnings on mixing `**` and arithmetic operators
+    - removes warning on mixing `in` and `instanceof`
+    - removes warning on mixing `~` with other bitwise operators
+    - removes mixing of assignment operators with comparison operators
+
+[33mcommit 820745d61090139193cf9257b88974e36dfc9b35[m
+Author: Sharmila <sharmila.jesupaul@airbnb.com>
+Date:   Mon Jul 9 18:14:32 2018 -0700
+
+    [guide] [eslint config] [base] [breaking] Require parens for arrow function args
+
+[33mcommit 8eacf24310f314abd40a1266e90818e11fefbdca[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 14:18:55 2019 -0700
+
+    [eslint config] [*] [breaking] add eslint v6, drop eslint v4
+    
+    See #2036
+
+[33mcommit 3b18fea1ede26833c432e96f4330edcddd2f12b7[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 14:20:40 2019 -0700
+
+    [Tests] only run tests in non-lint per-package travis job
+
+[33mcommit 945c62f22996d0fd3e7917d2769d60b1dd533e49[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 14:11:27 2019 -0700
+
+    [Tests] on `node` `v12`
+
+[33mcommit 820ccf7652f2f67a18b095a613ba99f9159eac93[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 14:06:58 2019 -0700
+
+    [eslint config] [*] [tests] use `eclint` instead of `editorconfig-tools`
+
+[33mcommit 792bb567e5d7437a381dfd9ab530b13fa2331c2e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 9 14:04:36 2019 -0700
+
+    [eslint config] [*] update `eslint-find-rules`, `eslint-plugin-import`
+
+[33mcommit 6c0a884179c5fcb7b52d516dcfb54c6bcf4dc6c1[m
+Author: Yohan Siguret <yohan.siguret@gmail.com>
+Date:   Sat Aug 3 00:57:12 2019 +0200
+
+    [guide] fix dead jsperf links
+
+[33mcommit 030e23b13e9d21b0775239c475ea137ad13e8a64[m
+Author: Mathieu Dutto <mathieu.dutto@evaneos.com>
+Date:   Wed Jul 24 15:36:48 2019 +0200
+
+    [guide] Fix npm package has usage example
+
+[33mcommit 036612ec3d8af223d2a3adc40aca70365b5612fd[m
+Author: Perttu Ristimella <perttu@pertturistimella.com>
+Date:   Thu Jul 4 14:59:47 2019 +0300
+
+    [inthewile] Add Happeo to users list
+
+[33mcommit 6a50516df70457d8b70fe4e6b2a02d5aaefb0f7d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 1 17:07:38 2019 -0700
+
+    [eslint config] [meta] add disabled config for new react and a11y rules
+
+[33mcommit 21493ad7e93d19c133481f833c1d1a3bdfe30098[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 1 16:26:52 2019 -0700
+
+    [eslint config] [base] [deps] update `confusing-browser-globals`, `eslint-plugin-import`, `tape`, `babel-preset-airbnb`
+
+[33mcommit 873f302b00398e59f8622e8193f2f47f66960066[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 1 16:17:49 2019 -0700
+
+    [eslint config] v17.1.1
+
+[33mcommit 7ea44cfc798b6789150ac7d22e7d6c399b3e6f18[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 1 16:12:08 2019 -0700
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-jsx-a11y`, `babel-preset-airbnb`, `tape`
+
+[33mcommit 9fbe07f282ddff9585423a4eee738022e4f7ea33[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 1 15:05:02 2019 -0700
+
+    [eslint-config] [base] v13.2.0
+
+[33mcommit a9a83d9150ce2903032d64593243e3490f332b9f[m
+Author: Glenn Goossens <48956933+glgoose@users.noreply.github.com>
+Date:   Thu Jun 27 11:37:32 2019 +0200
+
+    [guide] add link to new version of Google Style Guide
+    
+    Add link to a newer version of this guide that includes ECMAScript 6th Edition features
+
+[33mcommit 76ff7c7f793633596c262b78ae876da15839a65d[m
+Author: Christian Oliff <christianoliff@yahoo.com>
+Date:   Mon Jun 24 22:45:35 2019 +0900
+
+    [editorial] [docs] correct JavaScript capitalization
+
+[33mcommit 4539dbcf17b960ab650665bc95421dc8d0d3276e[m
+Author: Kevin Yue <yuezk001@gmail.com>
+Date:   Fri May 24 16:29:24 2019 +0800
+
+    [guide] remove redundant spaces
+
+[33mcommit 19701d4a0cf69ff05e9a9b9c7e62c7126b0ea73f[m
+Author: Kimball Bighorse <kbighorse@yahoo.com>
+Date:   Thu May 9 09:40:43 2019 -0700
+
+    [inthewild] Add Coeur d'Alene Tribe
+
+[33mcommit 1310ade9d0e4d1e5625f29b89d4c902bebc8cc11[m
+Author: Joseph Nields <joseph@lappy.local>
+Date:   Sat Apr 27 14:00:50 2019 -0700
+
+    [eslint config] [base] [patch] Ignore property modifications of `staticContext` params
+    
+    React Router passes a `staticContext` property to children to allow
+    signalling status codes and redirected URLs, by allowing children to
+    assign property values to it during render
+
+[33mcommit 5cd011dfa1e07e292444d3632d582ffb87fceec9[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Apr 27 23:51:44 2019 -0700
+
+    [eslint config] [base] [deps] update `eslint-plugin-import`
+
+[33mcommit 117d4fce49096bec1cb5d3c030031aca994ddb5a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Apr 27 23:27:07 2019 -0700
+
+    [Tests] fix issue with eslint dev deps
+
+[33mcommit 447466681e9c38858ef81af7a84aada801630352[m
+Author: Kévin Berthommier <bertho-zero@users.noreply.github.com>
+Date:   Wed Apr 10 10:22:57 2019 +0200
+
+    [guide] remove extra blank line
+
+[33mcommit 60b96d322277c4c71a21a05caba8eb3320e0e3fa[m
+Author: Anton Honcharuk <anton.goncharuk@icloud.com>
+Date:   Wed Feb 27 20:25:32 2019 +0200
+
+    [guide] Add a 19.9 bullet in a Whitespace section
+    
+    - with explanations about preventing two blank lines from  appearing consecutively in JavaScript code
+
+[33mcommit b85baeafed8b66fdd9756439a0b8774860147913[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Mar 3 23:23:14 2019 -0800
+
+    [eslint config] [base] [meta] add disabled `prefer-named-capture-group` rule
+
+[33mcommit be07f7a020749b37ce35a966a5c11ce76d5756ac[m
+Author: Anton Honcharuk <anton.goncharuk@icloud.com>
+Date:   Sun Feb 24 13:28:34 2019 +0200
+
+    [guide] [react] add more context about arrow functions, as props and in class fields
+
+[33mcommit 495a62aaa9c2110cb06e6243d91373aa4fb384da[m
+Author: Matthias Pries <mapb@users.noreply.github.com>
+Date:   Wed Feb 13 13:52:39 2019 +0100
+
+    [guide] fix example 4.7 for arrays method callbacks
+
+[33mcommit da0cf088316692b59751bfd64e99125a4acd3869[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Feb 17 14:21:15 2019 -0800
+
+    [Tests] on `node` `v11`
+
+[33mcommit a71c2d1ad3ff71627ea2848ae21ea35d5d7ef061[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Feb 17 14:20:53 2019 -0800
+
+    [eslint config] add disabled `jsx-fragments` rule
+
+[33mcommit 834d717c7bfdd08fe0f9fad2920626eb0e179398[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Feb 17 14:14:54 2019 -0800
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `tape`
+
+[33mcommit 8694a873783629c3461b05f4ba654904d3d1ac42[m
+Author: Jamie <me@thejameskyle.com>
+Date:   Thu Feb 14 11:57:20 2019 -0800
+
+    [eslint config] [react] [patch] Turn off `react/no-multi-comp`
+    
+    Splitting up a component into multiple components can be useful for many reasons, including making important performance optimizations.
+    
+    This lint rule discourages splitting up components because it forces you to: create a new file, copy over all the relevant imports, move over any local functions/values (or move them into yet another shared module), export the component (which makes your split off component now a public export), and re-import it into the new module.
+    
+    Having multiple components per file shouldn't be much different from having multiple functions per file. And you shouldn't be forced to make a component a public export if it's really just an internal implementation detail of another component.
+    
+    There's an argument to be made about _exporting_ multiple components, but mostly just in the context of React.lazy because it can only import default exports and you don't want something else in that file being statically imported (because that will prevent it from being code-split).
+
+[33mcommit 4f15da6146fc00096a909e4c53808a3068a4d853[m
+Author: Pier-Luc Brault <plbro92@gmail.com>
+Date:   Thu Feb 7 11:48:32 2019 -0500
+
+    [eslint config] [*] [readme] Improve eslint config setup instructions for yarn
+
+[33mcommit 6ef45d4bab39813e1ff31e41112009ffcb62277c[m
+Author: Zeeshan Ahmad <ziishaned@gmail.com>
+Date:   Wed Feb 6 14:09:18 2019 +0400
+
+    [guide] make "good" example match "bad" example more closely
+
+[33mcommit 96f95fa35e23f015448445b8d5bb7ac8e03a739a[m
+Author: tclindner <tclindner@users.noreply.github.com>
+Date:   Tue Jan 29 21:58:23 2019 -0600
+
+    [eslint config] [base] [patch] `no-extraneous-dependencies`: Add jest.setup.js to devDeps
+
+[33mcommit ebe96824e25c01ac37cdce29fc133077072fc91f[m
+Merge: 955f4e9 d78af39
+Author: Sharmila Jesupaul <sharmilajesupaul@users.noreply.github.com>
+Date:   Tue Feb 5 11:51:09 2019 -0800
+
+    Merge branch 'master' into translation-proposal
+
+[33mcommit d78af391183e3d5e684bcc3e0abc1d4da2135316[m
+Merge: d8256fc 25f11fb
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jan 27 21:21:48 2019 -0800
+
+    Merge pull request #1996 from remcohaszing/redux-devtools-extension-compose
+    
+    [eslint config] [base] [patch] Allow use of `__REDUX_DEVTOOLS_EXTENSION_COMPOSE__`
+
+[33mcommit d8256fc886717c758cc3830478e072d897bd68b9[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jan 27 13:41:14 2019 -0800
+
+    [eslint config] [*] [deps] update `object.entries`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+
+[33mcommit 25f11fb31e787a055329bdfaf9c4ad572780ac99[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sat Jan 26 10:12:49 2019 -0800
+
+    [eslint config] [patch] extend `no-underscore-dangle` to allow for redux dev tools in the main config instead
+
+[33mcommit 1439ebe78d043ed8c206367b23406da7ddb7c3ce[m
+Author: Telmen Munkhdalai <telmen@users.noreply.github.com>
+Date:   Sat Jan 26 16:55:34 2019 +0800
+
+    [editorial] [react] fix typo
+
+[33mcommit b6c56cb070445d62717913758d4b54f1efbdac77[m
+Author: Remco Haszing <remcohaszing@gmail.com>
+Date:   Mon Jan 21 13:39:53 2019 +0100
+
+    [eslint config] [base] [patch] Allow use of `__REDUX_DEVTOOLS_EXTENSION_COMPOSE__`
+    
+    This style guide disallows the use of underscores in properties. However, the
+    Redux browser extension requires the use of a variable named
+    `__REDUX_DEVTOOLS_EXTENSION_COMPOSE__`. Since Redux is so popular with React,
+    it makes sense to allow this.
+
+[33mcommit 955f4e93b8ae0ace9c9e4c7c8934b37c12d300d6[m
+Author: Hoang <dangkyokhoang@users.noreply.github.com>
+Date:   Sun Jan 13 18:55:49 2019 +0700
+
+    Vietnamese translation
+
+[33mcommit 95286eb496acf09fb8360d5368f798b040a0b5c1[m
+Author: Rahil Vora <rvora@CHIC02VQ0XPG8WN.sea.corp.expecn.com>
+Date:   Mon Jan 7 10:24:16 2019 -0600
+
+    [guide] [react] add note about `forbid-prop-types` rule
+
+[33mcommit 070e6200bb6c70fa31470ed7a6294f2497468b44[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Dec 28 14:32:02 2018 -0800
+
+    [Dev Deps] update `markdownlint-cli`
+
+[33mcommit 387755e8feedf7288983c89fe79bc0c03a2a8bbc[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Dec 28 14:31:03 2018 -0800
+
+    [meta] add disabled `no-useless-catch` config
+
+[33mcommit 218c4fefbb010922866c18ef88e34ec66bb962a5[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Dec 28 13:36:01 2018 -0800
+
+    [eslint config] [base] [fix] disable `no-var` in legacy entry point
+    
+    Fixes #1935.
+
+[33mcommit 80920a07c5144148d2987f39fb9558246552648e[m
+Author: Emily Rohrbough <emilyrohrbough@users.noreply.github.com>
+Date:   Wed Dec 19 13:06:08 2018 -0600
+
+    Add Terra to README list
+
+[33mcommit 5d25a2ee61ebe44a10617efed41dc54bb36fb625[m
+Author: Honza Javorek <mail@honzajavorek.cz>
+Date:   Tue Dec 18 16:11:26 2018 +0100
+
+    capitalize means first letter uppercase, the rest lowercase
+    
+    The examples and the reasoning indicates the author of the rule meant uppercase instead of capitalization. According to Wikipedia, capitalization is "writing a word with its first letter as a capital letter (uppercase letter) and the remaining letters in lower case", while the rule apparently tries to prevent exactly that.
+
+[33mcommit 064e3bf8d578736c38a7d74419ea6ba10ee46d8f[m
+Author: Michael Käfer <michael.kaefer1@gmx.at>
+Date:   Tue Nov 27 20:51:21 2018 +0100
+
+    :) conflicting with rule 8.2 :D
+
+[33mcommit ffe4fe967c8e0635a5c21b9b0b62eed0b2aa655a[m
+Author: Kevin Weber <k-iwi@web.de>
+Date:   Sat Aug 25 22:12:12 2018 -0700
+
+    [guide] Clarify wording
+
+[33mcommit 69e34378c603bac579ce16fd5d635d3589ca23d0[m
+Author: ernestodebesto <filip.sikor@gmail.com>
+Date:   Fri Sep 14 17:20:22 2018 +0200
+
+    Examples more consistent with the guidline
+    
+    comparison operator <= shows better the confusion when using arrow function, than just operator <
+
+[33mcommit 6ece1f58e91a06608145d03dbc949aa352cad5a8[m
+Author: NullDev (Chris) <shadow@nulldev.org>
+Date:   Wed Nov 21 10:51:20 2018 +0100
+
+    Added NullDev
+    
+    because why not
+
+[33mcommit 0d6d854b5c70c8440091253c2d1fcc84b6f8ee20[m
+Author: NullDev (Chris) <shadow@nulldev.org>
+Date:   Wed Nov 21 10:48:35 2018 +0100
+
+    [17.2] Added second anchor https://github.com/airbnb/javascript/pull/1960
+    
+    See requested changes here: https://github.com/airbnb/javascript/pull/1960#pullrequestreview-176797787
+
+[33mcommit 21b65e943c361f91af5a484460fb2c8d02e2ff92[m
+Author: Ed Morley <501702+edmorley@users.noreply.github.com>
+Date:   Tue Nov 20 09:40:02 2018 +0000
+
+    [eslint config] [base] [deps] Switch to confusing-browser-globals
+    
+    The `eslint-restricted-globals` package author created an equivalent
+    package `confusing-browser-globals` that now resides within the
+    create-react-app monorepo. In sidoshi/eslint-restricted-globals#2
+    @sidoshi suggested that we change eslint-config-airbnb-base to depend
+    on the CRA package instead, in an effort to consolidate the two.
+    
+    Currently the two global lists are identical, so this does not change
+    the generated eslint config:
+    https://unpkg.com/eslint-restricted-globals@0.2.0/index.js
+    https://unpkg.com/confusing-browser-globals@1.0.5/index.js
+
+[33mcommit 74deb81d1fa670a5a462f6ada29d9447cf61c7c0[m
+Author: KY3LxD <38943742+KY3LxD@users.noreply.github.com>
+Date:   Mon Nov 12 23:38:19 2018 -0800
+
+    [editorial] Improve conciseness of README.md
+
+[33mcommit 41a13e83eee02be3fcfc0657a6cb994018df700d[m
+Author: Bikram Sutar <38653376+theBstar@users.noreply.github.com>
+Date:   Tue Oct 30 15:05:16 2018 +0530
+
+    [19.16] changed Enforce to avoid
+    
+    Good practice is to avoid spaces between functions and their invocations. But by mistake (I think so) you used the word Enforce instead of Avoid
+
+[33mcommit 03a0734fcefa0e7ab351ce33fd1562e089de1e5d[m
+Author: Martín Anzorena <martin.anzorena@gmail.com>
+Date:   Wed Oct 17 01:51:06 2018 +0800
+
+    Add UrbanSim to organizations list
+
+[33mcommit 24da5bb540de12117bcdfa7b6d8ce3c0ff4b6504[m
+Author: Pirasis Leelatanon <1pete@users.noreply.github.com>
+Date:   Thu Oct 4 20:29:10 2018 +0700
+
+    [doc] add eslint rule references in react guide
+    
+    * react/jsx-filename-extension
+    * react/no-array-index-key
+
+[33mcommit 924dfb268208b0fa59ead2e256be1da38ee17bca[m
+Author: Pirasis Leelatanon <1pete@users.noreply.github.com>
+Date:   Wed Oct 3 23:56:48 2018 +0700
+
+    [doc] add eslint rule reference for `no-prototype-builtins`
+
+[33mcommit 9af5ee89ebf4c491d2f5231bced89d8cb1863660[m
+Author: Parul Gupta <parulgupta26@gmail.com>
+Date:   Tue Oct 2 16:26:25 2018 +0530
+
+    Updated wording of variable--one-const rule
+
+[33mcommit 32a7bf44c2e5b3d2a5d05af46716fbe45bc09bec[m
+Author: Tokyo <ahmed.tokyo1@gmail.com>
+Date:   Wed Sep 12 15:37:59 2018 +0100
+
+    :pencil2: fix docs for whitespace config
+
+[33mcommit 02b4eea3452b0ae6da666b01f9da23f26148f5b6[m
+Author: 侯林江 <linjiang.hou@baidao.com>
+Date:   Thu Jan 19 18:21:22 2017 +0800
+
+    [guide] update to a better Chinese translation
+
+[33mcommit e7ffd44b4a95962bef5c1861fc2920650d3fa2c1[m
+Author: Siddharth Batra <sbsiddharth@gmail.com>
+Date:   Sun Sep 2 22:59:40 2018 +0530
+
+    Update .markdownlint.json
+    
+    Fixed typos and grammar
+
+[33mcommit 17e0454672f784772c5f5ab052523a93229d9adf[m
+Author: JBallin <JBallin@users.noreply.github.com>
+Date:   Sat Sep 1 15:48:59 2018 -0700
+
+    [eslint config] [base] [minor] Enforce dangling underscores in method names
+
+[33mcommit b8b2a0b0e01e00a6b6747e9662be9f479a9c0c9c[m
+Author: Robert Alvarez <rlalvarez@pier1.com>
+Date:   Fri Aug 31 15:10:43 2018 -0500
+
+    Add Pier1 to the organization list
+
+[33mcommit 48448a81cc899b3cbabfc13eab5b1dc432d24f7f[m
+Author: Kevin Weber <k-iwi@web.de>
+Date:   Sun Aug 26 17:41:01 2018 -0700
+
+    [guide] [react] Explain use of ID over key right on page
+
+[33mcommit 5443d03de2df6d0579be15e3739d8dd1449fad36[m
+Author: Kevin Weber <k-iwi@web.de>
+Date:   Sun Aug 26 17:50:48 2018 -0700
+
+    [guide] Consistently use curly quotes instead of straight quotes in prose
+
+[33mcommit fcfd378dd87f609be445d71e89b9141a8800827b[m
+Author: Kevin Weber <k-iwi@web.de>
+Date:   Sat Aug 25 22:54:31 2018 -0700
+
+    Fix outdated link to Airbnb's Neutrino preset
+
+[33mcommit d774b8979eee9aa0c4c155b1b1dceba5bb6fd0af[m
+Merge: 685f37b ced1cb3
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Aug 26 22:21:05 2018 -0700
+
+    Merge pull request #1898 from kevinweber/react/props--unnecessary-props
+    
+    List bad example first to be consistent
+
+[33mcommit ced1cb3ad8a9bb880cfe6eb0de878027ccb933b1[m
+Author: Kevin Weber <k-iwi@web.de>
+Date:   Sun Aug 26 17:15:08 2018 -0700
+
+    List bad example first to be consistent
+
+[33mcommit 685f37be39fd01bcfdd349de9acdcd5a50414520[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 13 13:39:50 2018 -0700
+
+    [eslint config] v17.1.0
+
+[33mcommit 9a5267684b59106523cf5419439fd0d53c0a512e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 13 13:35:23 2018 -0700
+
+    [eslint config] [patch] re-enabling `jsx-one-expression-per-line` allowing single children, ignore DOM components on `jsx-no-bind`; re-enable `restructuring-assignment`
+    
+    Reverts b6a268f780177e03b573a4f0df95ecc0d2e8783e
+
+[33mcommit 152b914935426992cc11aa597c6907508ffe7dbc[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 13 13:31:33 2018 -0700
+
+    [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-react`
+
+[33mcommit 45326cce63f38de3a01ecb95c33846d2b6b9ef72[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 13 00:54:48 2018 -0700
+
+    [eslint-config-airbnb-base] v13.1.0
+
+[33mcommit dfb70d62448e315f0ad6adffe29d7ea136feb61b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Aug 13 00:51:32 2018 -0700
+
+    [*] [deps] update `eslint-plugin-import`, `safe-publish-latest`
+
+[33mcommit 32a674de0b9459ee1e3220db3a7f41b197ac61ab[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Aug 3 21:18:03 2018 -0700
+
+    [eslint config] [*] [deps] update `eslint`, `babel-preset-airbnb`, `eslint-plugin-jsx-a11y`
+
+[33mcommit a12dec90d173464a3fc4e4536b8c6f639fb93236[m
+Author: Andrew Scheuermann <andrew.scheuermann@airbnb.com>
+Date:   Wed Jul 11 16:26:22 2018 -0700
+
+    [guide] [react] boolean in jsx alignment
+
+[33mcommit b6a268f780177e03b573a4f0df95ecc0d2e8783e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jul 9 23:16:25 2018 -0700
+
+    [eslint config] [react] disable two buggy rules, temporarily
+
+[33mcommit 96317f8c79d6c5a6e9478a49eb89770863c4e6e1[m
+Author: Vse Mozhet Byt <vsemozhetbyt@gmail.com>
+Date:   Thu Jul 5 16:48:26 2018 +0300
+
+    [guide] fix anchor tag in README.md
+    
+    Currently, this anchor with missing end tag breaks rendering:
+    
+    https://github.com/airbnb/javascript/blob/5d1f4b9a49ee7def65343f5efccfcce7723b9b4b/README.md#arrays--from-iterable
+
+[33mcommit a510095acf20e3d96a94e6d0d0b26cfac71d2c7f[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jun 25 15:06:18 2018 -0700
+
+    [eslint config] [*] [new] add eslint v5 support
+
+[33mcommit 2037fd82b9260db71758aedc513e86b7df23c01e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jun 25 15:48:07 2018 -0700
+
+    [Tests] link eslint from the base config as well
+
+[33mcommit 7dda84a335f5903d72c9423dc17f33f2c9813d2a[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Jul 4 22:33:27 2018 -0700
+
+    [eslint config] [deps] [minor] update `jsx-a11y` plugin; enable `label-has-associated-control` rule
+    
+    This is semver-minor, because the `label-has-associated-control` rule is
+    the same as the `label-has-for` rule, theoretically. Both remain
+    enabled, but `label-has-for` will be disabled in the future if this rule
+    proves out.
+
+[33mcommit 5d1f4b9a49ee7def65343f5efccfcce7723b9b4b[m
+Author: Mauro Zenoni <25953912+maurozenoni@users.noreply.github.com>
+Date:   Tue Jul 3 11:51:37 2018 +0200
+
+    [guide] Updated Arrays Section
+    
+    - corrected paragraph 4.4 (conversion from iterable to array)
+    - added paragraph 4.5 (conversion from array-like to array)
+
+[33mcommit fe8de599774bf8d312b2b94e93172e873c36df8f[m
+Author: Ahmed Tarek <ahmed.tokyo1@gmail.com>
+Date:   Tue Jul 3 21:18:11 2018 +0200
+
+    [eslint-config] [*] [docs] :pencil2: fix typo in Readme
+
+[33mcommit 77fdae6a74a718d1ec32455088dbb5f964f5d271[m
+Author: Noah Benham <noahbenham@users.noreply.github.com>
+Date:   Mon Jul 2 09:17:21 2018 -0500
+
+    Add Cerner to In The Wild
+    
+    [Cerner](https://github.com/cerner/) uses Airbnb for our JS projects.
+
+[33mcommit 27e5e20b70a042945a63c37ac1d9ad834fc3acd0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jun 25 14:14:01 2018 -0700
+
+    [eslint config] [base] [new] update base ecmaVersion to 2018; remove deprecated experimentalObjectRestSpread option
+
+[33mcommit d951220399c75099838fc79577033b00530b2b90[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Mon Jun 25 13:40:38 2018 -0700
+
+    [eslint config] [*] [dev deps] update `eslint-find-rules`
+
+[33mcommit 47021150388d1cea54c529463fe20299f1de9bb5[m
+Author: liyuhang <liyuhang1997@users.noreply.github.com>
+Date:   Mon Jun 25 16:08:50 2018 +0800
+
+    Fix: Typo
+
+[33mcommit 363bb077658906ccc809419b1ce3cb2f75b29e90[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jun 24 22:57:06 2018 -0700
+
+    [eslint config] [deps] update `eslint-plugin-react`
+
+[33mcommit 6a593069e1055a082d3891cc50579a6d586bf3eb[m
+Author: 薛定谔的猫 <hh_2013@foxmail.com>
+Date:   Mon Jun 25 02:09:32 2018 +0800
+
+    [dev deps] update `markdownlint-cli`
+
+[33mcommit 8de558b7500c91e8e77e4c2446e9888844bcba77[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jun 24 19:41:27 2018 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`
+
+[33mcommit 2161ddf8d6b608fbb91466e741f68b6a50608d26[m
+Author: 薛定谔的猫 <hh_2013@foxmail.com>
+Date:   Mon Jun 25 02:08:15 2018 +0800
+
+    Build: add node 10
+
+[33mcommit cae920fc308325b40f49c5e8f76bbeb5d8663fc5[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 15:22:10 2018 -0700
+
+    [eslint config] v17.0.0
+
+[33mcommit d14ed5daa7625eab6e03fb290b0a18ed11b229fc[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 15:16:52 2018 -0700
+
+    [eslint config] [breaking] update `eslint-config-airbnb-base`
+
+[33mcommit afe340773f082b262955abf243efbd60e2d87ee4[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 14:46:43 2018 -0700
+
+    [eslint config] [base] v13.0.0
+
+[33mcommit 8be089eb1138c6e5dbdc27146248525c0633ba47[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 14:46:24 2018 -0700
+
+    [eslint config] fix tests
+
+[33mcommit fdb998b38adda8777022fe33b86b2f8092ac83a0[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 14:39:07 2018 -0700
+
+    [eslint config] [base] fix tests
+
+[33mcommit 951825c6d216ef2b3017472ae66e9b3360b089ae[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 14:22:54 2018 -0700
+
+    [eslint config] set `forbid-foreign-prop-types` to "warn"
+
+[33mcommit 25e711cedd78e3329e8a8508d723996080d8336f[m
+Author: Gaurav Paliwal <paliwal.gaurav@outlook.com>
+Date:   Wed Jun 20 17:31:00 2018 +0530
+
+    [eslint config] [patch] Add new methods introduced in react@16.3
+
+[33mcommit 068d6b69bf70c83d16eba25c9c517a4859c96ea4[m
+Author: Moritz Kneilmann <moritz.kneilmann@gmx.de>
+Date:   Tue May 15 23:54:09 2018 +0200
+
+    [eslint config] [base] [patch] Adjust imports for vue-cli
+    
+    Allows the vue-cli config file `vue.config.js` to import `devDependencies` by altering the rule `import/no-extraneous-dependencies`.
+
+[33mcommit b3bbd1ccbc2495762ed3b2ec47e776135e532d76[m
+Author: Josh Wells <josh@bubblegate.co.uk>
+Date:   Wed Apr 11 13:46:34 2018 +0100
+
+    [eslint config] [base] [breaking] order of import statements is ignored for unassigned imports
+
+[33mcommit 2668495fee10b4b70f72ba623b4f319ad539700a[m
+Author: minimooooz <art@kkumail.co>
+Date:   Thu Oct 12 11:17:22 2017 +0700
+
+    add ES2015-2018 in npm package keywords
+
+[33mcommit d270031fc07bd26df9d53106704e04abc37d8256[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Jun 21 13:28:22 2018 -0700
+
+    [eslint config] [*] [dev deps] update `babel-preset-airbnb`, `tape`
+
+[33mcommit 103f5e2a5901392878889ec1f1ad4e59c8d65dc3[m
+Author: Vse Mozhet Byt <vsemozhetbyt@gmail.com>
+Date:   Fri Jun 8 19:49:37 2018 +0300
+
+    doc: add missing anchor in README.md
+
+[33mcommit 74fb34f08d4f1961169e9c37c9036a5b42aa7bf1[m
+Author: Daniel McNally <mcnallydp@gmail.com>
+Date:   Fri Jun 8 01:38:03 2018 -0400
+
+    Add no-unused-vars to README
+    
+    This documents the enforced but currently undocumented `no-unused-vars` rule with a brief description, examples, and noting the `"ignoreRestSiblings": true` option.
+
+[33mcommit 5e260928b65f48c895b21d49ea0aa752df2e4d80[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Jun 3 22:19:41 2018 -0700
+
+    [eslint config] [react] update `eslint-plugin-react`
+
+[33mcommit 8a244801196924797878186d744249c78fa4ed37[m
+Author: Alejandro García Salas <garciasalasalejandro@gmail.com>
+Date:   Sun Jun 3 10:48:10 2018 -0700
+
+    Fix broken aria roles link in React style guide README
+
+[33mcommit dfc9da71d9ac8669d074cbe0f918b504c8a68be8[m
+Author: Andrew Macpherson <hopscotch23@gmail.com>
+Date:   Thu May 31 18:34:17 2018 +0100
+
+    Add Drupal to In The Wild section.
+
+[33mcommit ae82d7678303bd08242299a4a9e2c47717bf9c6b[m
+Author: Alexandre Syenchuk <alexpirine@users.noreply.github.com>
+Date:   Wed May 30 09:06:14 2018 +0200
+
+    Update README.md
+
+[33mcommit 04ab225858b75b9fb1180075b92845700849ea5b[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun May 27 08:47:29 2018 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-find-rules`, `eslint-plugin-react`
+
+[33mcommit c068d7cbf1bfb2f263bc928ca7fd895a6a6add7f[m
+Author: Brett <brett@hover.to>
+Date:   Sat May 26 13:38:45 2018 -0700
+
+    Fix link for Temporal Dead Zone
+
+[33mcommit 2ba36de952fcb6a931471980f4fbbdc4df468baa[m
+Author: ParkSB <parkgds@gmail.com>
+Date:   Sat May 5 03:04:38 2018 +0900
+
+    [guide] Add backticks
+
+[33mcommit 2bd77bc1e0fb6fb17f9601961cd9d5b878623c28[m
+Author: Jimmy Jia <tesrin@gmail.com>
+Date:   Sat May 5 22:34:19 2018 -0400
+
+    [eslint config] [base] [patch] `label-has-for`: Remove redundant component
+    
+    Also make the rule configuration more explicit.
+
+[33mcommit 71e54f2af8e17c6147f1e8f7baafdbcf86d1d2d9[m
+Author: Vse Mozhet Byt <vsemozhetbyt@gmail.com>
+Date:   Fri May 4 11:11:55 2018 +0300
+
+    doc: fix some nits in README.md
+    
+    * Add missing anchors for section references.
+    * Correct a rule description.
+
+[33mcommit edf942eeb6bee3ae538e1484861ea0721fad4856[m
+Author: Daniel McNally <mcnallydp@gmail.com>
+Date:   Wed May 2 01:01:19 2018 -0400
+
+    [guide] Add descriptions of enforced rules
+    
+    This commit adds brief descriptions and examples of rules enforced by the guide that were not previously mentioned in the README.
+
+[33mcommit 2d9779907f9760472e0318ad11b01f67a9f5dc7e[m
+Author: Thomas Grainger <tagrain@gmail.com>
+Date:   Mon Apr 30 09:30:38 2018 +0100
+
+    [eslint config] [base] [minor] only allow one newline at the end
+
+[33mcommit 8c83d03a20d166aba0acefa1358efe6043eacc3e[m
+Author: Joe Lencioni <joe.lencioni@gmail.com>
+Date:   Thu Feb 15 11:58:17 2018 -0800
+
+    [eslint config] [base] [patch] Allow devDependencies for foo_spec.js naming style
+    
+    Some projects name test files like `foo_spec.js` instead of `foo.spec.js`.
+
+[33mcommit 22f01558a08eed9f32ad3b6e963ac71bebd37433[m
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 25 20:28:41 2018 -0700
+
+    Add StandardJS to "Other Style Guides" list
+    
+    StandardJS is one of the top style guides, though like the Google and jQuery styles, it's less popular than the airbnb style. 😀
+
+[33mcommit 2653730fee20e46a1fc6e6c9fd512329d8719fb0[m
+Author: Nguyễn Tiến Minh <tienminh.uet@gmail.com>
+Date:   Sat Apr 21 13:51:56 2018 +0700
+
+    [react] add vietnamese
+
+[33mcommit 5705b8ae6b22305cc9dca048e0a4b14db7ce6934[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Sun Apr 22 14:48:50 2018 -0700
+
+    Revert "Replace flag images with emoji"
+    
+    This reverts commit 87f97e042ddb94d87950be7c483b4aa4e391e2c2.
+    
+    Closes #1789.
+
+[33mcommit fd0834764c8b991a807e6366181c1a3eddba240d[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Apr 20 15:19:14 2018 -0700
+
+    [eslint config] [base] fix tests
+
+[33mcommit b56875bee21eb8d87213c787dc105c288066f43e[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Apr 20 14:00:50 2018 -0700
+
+    [eslint config] [base] [patch] `function-paren-newline`: change to "consistent"
+
+[33mcommit 89bb98e13568839793dc725e78717ddce58de79b[m
+Merge: 308fb24 87f97e0
+Author: Joe Lencioni <joe.lencioni@gmail.com>
+Date:   Thu Apr 19 04:15:39 2018 +0800
+
+    Merge pull request #1787 from airbnb/lencioni-patch-2
+    
+    Replace flag images with emoji
+
+[33mcommit 87f97e042ddb94d87950be7c483b4aa4e391e2c2[m
+Author: Joe Lencioni <joe.lencioni@gmail.com>
+Date:   Wed Apr 18 11:28:06 2018 -0700
+
+    Replace flag images with emoji
+    
+    We can use emoji for most of these flags, which should make
+    them look better on higher resolution displays and improve the
+    loading performance of the style guide a little.
+    
+    The only flag we have here that does not have a good emoji yet
+    is the flag of Catalonia, which I left as-is for now.
+    
+    https://emojipedia.org/flag-for-catalonia-esct/
+
+[33mcommit 308fb24815a62c98aa4e89aae1bad0744dab3a92[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Apr 13 13:43:43 2018 -0700
+
+    [eslint config] [*] [deps] update `eslint-plugin-import`
+
+[33mcommit 6088a8f5b503c4e383552cbb6ae36d3fa4c6e7b1[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Thu Apr 12 15:46:55 2018 -0700
+
+    [guide] remove references to jscs
+
+[33mcommit 8956338ee95087ab2da99b368d00ff482e77df3b[m
+Author: Eray Çetinay <eraycetinay@gmail.com>
+Date:   Sun Apr 8 22:51:19 2018 +0300
+
+    [guide] Turkish Translation Link Added
+
+[33mcommit 06998522e1f4935f81f732c458d2cc72dde2cac9[m
+Author: Hernaldo Jesus Henriquez <hjhenriq@gmail.com>
+Date:   Fri Apr 6 14:53:46 2018 -0300
+
+    [guide] fix "bad" comment to be actually bad
+
+[33mcommit 8720f5f90bbe4aaf87e03d81b3b4f607f27ff6c6[m
+Author: C. T. Lin <chentsulin@gmail.com>
+Date:   Wed Mar 28 13:05:12 2018 +0800
+
+    [eslint config] [base] [patch] avoid `__mocks__` `no-extraneous-dependencies` check
+
+[33mcommit bd97fca21b99b542d9ef9eebec78198d6bb5fde0[m
+Author: Pramod Garg <pramodgarg002@gmail.com>
+Date:   Wed Apr 4 22:45:44 2018 +0530
+
+    [guide] Minor addition of spaces
+
+[33mcommit c71e8c9231394ef9489cacf6cbf1ea9dd63b1b32[m
+Author: Sharmila <sharmila.jesupaul@airbnb.com>
+Date:   Wed Apr 4 16:15:27 2018 -0700
+
+    [eslint config] [base] [breaking] enable `import/no-cycle`: warn on cyclical dependencies
+
+[33mcommit 31d95fded451b31695d9cc09abc117edcea4969d[m
+Author: Sharmila <sharmila.jesupaul@airbnb.com>
+Date:   Wed Apr 4 16:23:02 2018 -0700
+
+    [eslint config] [*] [deps] update `eslint`, `eslint-plugin-import`, `eslint-find-rules`
+
+[33mcommit 06e28997b239a341bcc196905f710f2c437ed8cf[m
+Author: Simon Owen <s1000wen@gmail.com>
+Date:   Wed Mar 28 15:39:14 2018 +0100
+
+    Minor spacing update
+
+[33mcommit 33819d6787f670148877ceac38522127ed0242e4[m
+Merge: 8ed1d85 a9f5d51
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Fri Mar 23 22:29:20 2018 +0000
+
+    [guide] Added naming conventions for UPPERCASE use cases
+    
+    Merge pull request #255 from estelle/master
+
+[33mcommit 8ed1d855bbefccbb147fe17d902a18c8f9aa3977[m
+Author: Naomi Jacobs <naomiajacobs@gmail.com>
+Date:   Tue Mar 20 11:40:04 2018 -0700
+
+    [eslint config] [base] [patch] Include 'accumulator' exception for `no-param-reassign`
+
+[33mcommit 49dab881da79eb3742e7f1e26c754194a9f26991[m
+Author: Joe Lencioni <joe.lencioni@gmail.com>
+Date:   Fri Mar 23 08:42:42 2018 -0700
+
+    Change import/no-self-import from "off" to "error"
+    
+    We recently had an incident where this rule would have prevented
+    infinite loops in Hypernova and in the browser.
+
+[33mcommit a9f5d519fe7356a60843c2c24aae974f716e6d17[m
+Author: Shane Mileham <shane.mileham@healthiq.com>
+Date:   Mon Mar 12 11:20:34 2018 -0700
+
+    Added naming--uppercase section from comment
+
+[33mcommit 8247e338a2d689f2e16010b0db225fbce7760f97[m
+Author: Remco Haszing <remcohaszing@gmail.com>
+Date:   Mon Dec 4 10:11:35 2017 +0100
+
+    [eslint config] [base] [patch] Set import/extensions to ignorePackages
+    
+    This allows to import non-JavaScript files through the main export of a dependency's package.json.
+    
+    The following would trigger an error before, but is fine with the new configuration:
+    
+    ```js
+    import 'roboto-fontface';
+    ```
+
+[33mcommit a100a3957ffb11c841dbd74a649cbb9b5a17a2aa[m
+Author: Remco Haszing <remcohaszing@gmail.com>
+Date:   Thu Mar 1 14:33:02 2018 +0100
+
+    [eslint config] [base] [breaking] Update `object-curly-newline` to match eslint 4.18.0
+    
+    In eslint v4.18.0 separate settings are introduced for imports and exports for the `object-curly-newline` rule.
+    
+    Without this change, there is different behavior when updating eslint to this version.
+
+[33mcommit 55adae99c960be8d4433b8c98b410695f6cea733[m
+Author: Michael Altamirano <michaeljaltamirano@gmail.com>
+Date:   Sat Mar 10 17:30:38 2018 -0800
+
+    [guide] Reflect adoption of jest
+
+[33mcommit a9fc9d8a0f8b606d560bd173af4cdcfa18e86261[m
+Author: Rauno <freiberggg@gmail.com>
+Date:   Mon Mar 5 22:24:19 2018 +0200
+
+    [docs] [js] add function-paren-newline eslint reference link
+
+[33mcommit 396166b1d3266c3bd4c9a83a8f3142c7bcc58865[m
+Author: Pirasis <1pete@users.noreply.github.com>
+Date:   Thu Mar 1 12:15:56 2018 +0700
+
+    [eslint config] [*] [fix] ensure `whitespace` entry point is compatible with node 4
+
+[33mcommit 40dbeace170d3cf309e857dd9a9caa092d6aac2c[m
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Feb 28 23:00:19 2018 -0800
+
+    [Tests] ensure all entry points parse
+
+[33mcommit 8e6363c677905feaaa20bea47ec27fc65206c13f[m
+Merge: c82500d 6373dab
+Author: Jordan Harband <ljharb@gmail.com>
+Date:   Wed Feb 28 19:01:56 2018 -0800
+
+    [eslint config] [*] [new] add `whitespace` entry point
+    
+    Adds eslint config extends with only whitespace rules enabled
+    
+    Merge pull request #1749 from airbnb/whitespace-rules
+
+[33mcommit 6373dab9901a29105712ec040006f2352a318dd6[m
+Author: Sharmila <sharmila.jesupaul@airbnb.com>
+Date:   Wed Feb 21 20:18:56 2018 -0800
+
+    Adds config entry point with only whitespace rules enabled
+    
+    Adds a change to eslint-config-airbnb and eslint-config-airbnb-base to pull a list of rules from the project root and return a config with all rules turned off except the whitespace rules explicitly listed in the array. Also adds entry point data to readme.
